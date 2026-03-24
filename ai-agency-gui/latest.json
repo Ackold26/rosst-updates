@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "download_url": "https://github.com/ackold26/rosst-updates/releases/download/v0.1.0/ai-agency-gui_0.1.0_x64-setup.exe",
+  "download_url": "https://github.com/Ackold26/AI_APP_AGENCY/releases/latest",
   "release_notes": "Initial release — protected skill cabinets with Claude Code integration",
   "mandatory": false
 }
