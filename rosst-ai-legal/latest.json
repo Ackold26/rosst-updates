@@ -1,0 +1,8 @@
+{
+  "version": "0.2.1",
+  "download_url": "https://github.com/Ackold26/ROSST_AI_Legal/releases/download/v0.2.1/AURORA AI AGENCY - ROSST Legal_0.2.1_x64-setup.exe",
+  "checksum": "sha256:1b1c19683d07bb63eff41d14eac2ac16b3cb9b955ac9ae46e840da03b414ff90",
+  "release_notes": "v0.2.1: Error codes, license renewal, in-app updates",
+  "mandatory": false,
+  "min_version": "0.1.0"
+}
