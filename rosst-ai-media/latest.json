@@ -1,7 +1,7 @@
 {
   "version": "0.2.1",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.2.1/AURORA.AI.AGENCY.-.ROSST.Media_0.2.1_x64-setup.exe",
-  "checksum": "sha256:09a5fc5f09ac29a70b568c4390a0c1df896c2bd044086155206473e8d6e21a55",
+  "checksum": "sha256:378ea82560b1a6118b2245070fca00553791b276785cfc78341a27936a2812e4",
   "release_notes": "v0.2.1: Error codes, license renewal, in-app updates",
   "mandatory": false,
   "min_version": "0.1.0"
