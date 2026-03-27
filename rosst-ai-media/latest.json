@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.2.1/AURORA.AI.AGENCY.-.ROSST.Media_0.2.1_x64-setup.exe",
-  "checksum": "sha256:378ea82560b1a6118b2245070fca00553791b276785cfc78341a27936a2812e4",
-  "release_notes": "v0.2.1: Error codes, license renewal, in-app updates",
+  "version": "0.3.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.0/AURORA.AI.AGENCY.-.ROSST.Media_0.3.0_x64-setup.exe",
+  "checksum": "sha256:a07deb25644ff795c86c1c7755dca7656e55da491ad98a13ee1c5af1ef966311",
+  "release_notes": "v0.3.0: Social Listening, feedback form, UI fixes",
   "mandatory": false,
   "min_version": "0.1.0"
 }
