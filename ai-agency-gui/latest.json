@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1",
-  "download_url": "https://example.com/nonexistent-file.exe",
-  "checksum": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
-  "release_notes": "TEST: UP-002 broken download",
+  "version": "0.3.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.0/AURORA.AI.AGENCY.-.ROSST_0.3.0_x64-setup.exe",
+  "checksum": "sha256:b821f226e89ce0b67e4252530b8c42059aef57ce81dbd8acedaf19edb4f755ef",
+  "release_notes": "v0.3.0: Social Listening, feedback form, UI fixes",
   "mandatory": false,
   "min_version": "0.1.0"
 }
