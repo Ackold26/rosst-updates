@@ -1,7 +1,7 @@
 {
   "version": "0.3.0",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.0/AURORA.AI.AGENCY.-.ROSST.Legal_0.3.0_x64-setup.exe",
-  "checksum": "sha256:ededc064aa402e9f1c07adcd651b0502cfad725837200276223b7643758ca1a0",
+  "checksum": "sha256:6fdfdbab4930b120fd438ea94d05a33ab731a1caf9c34b12d9d598f110b308f5",
   "release_notes": "v0.3.0: Social Listening, feedback form, UI fixes",
   "mandatory": false,
   "min_version": "0.1.0"

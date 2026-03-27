@@ -1,7 +1,7 @@
 {
   "version": "0.3.0",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.0/AURORA.AI.AGENCY.-.ROSST.Media_0.3.0_x64-setup.exe",
-  "checksum": "sha256:4bdb657584f3357e29426dd18f1c1ed7cfb7fea27a05db981b6902987924d7cd",
+  "checksum": "sha256:32ea127e6a9162884949709255261a77e4b06327850d27e7d8434fb9dbbeadfd",
   "release_notes": "v0.3.0: Social Listening, feedback form, UI fixes",
   "mandatory": false,
   "min_version": "0.1.0"
