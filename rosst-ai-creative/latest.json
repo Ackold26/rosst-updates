@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.0/AURORA.AI.AGENCY.-.ROSST.Creative_0.3.0_x64-setup.exe",
-  "checksum": "sha256:ae7e82ddbf5189ecb7ad479caddcfac59f355c2f215fcfd3b2741824a16b0529",
-  "release_notes": "v0.3.0: Social Listening, feedback form, UI fixes",
+  "version": "0.3.2",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.2/AURORA.AI.AGENCY.-.ROSST.Creative_0.3.2_x64-setup.exe",
+  "checksum": "sha256:35c3fd9b45edaf75411255710e5996f82883510641aaa2705d257e745d1e9a50",
+  "release_notes": "v0.3.2: Security audit, variant isolation, per-app storage, WebView2 auto-fix",
   "mandatory": false,
   "min_version": "0.1.0"
 }
