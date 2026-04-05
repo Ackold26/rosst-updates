@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.2/AURORA.AI.AGENCY.-.ROSST.Legal_0.3.2_x64-setup.exe",
-  "checksum": "sha256:a51d0991bb8e852b225a9ec3fff20947b3230ad6013f10959d30421d66a6c5c1",
-  "release_notes": "v0.3.2: Security audit, variant isolation, per-app storage, WebView2 auto-fix",
+  "version": "0.6.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Legal_0.6.0_x64-setup.exe",
+  "checksum": "sha256:03be03b8d530dcee40bf1f8bbb524a702d70b8aa286ef4896f0917100ba84120",
+  "release_notes": "v0.6.0: Creative Hub, Pipeline с контекстной цепочкой, Workflow Builder, Desktop notifications, auto-route artifacts, UX Polish",
   "mandatory": false,
-  "min_version": "0.1.0"
+  "min_version": "0.3.2"
 }

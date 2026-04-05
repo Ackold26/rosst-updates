@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.2/AURORA.AI.AGENCY.-.ROSST.Creative_0.3.2_x64-setup.exe",
-  "checksum": "sha256:35c3fd9b45edaf75411255710e5996f82883510641aaa2705d257e745d1e9a50",
-  "release_notes": "v0.3.2: Security audit, variant isolation, per-app storage, WebView2 auto-fix",
+  "version": "0.6.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Creative_0.6.0_x64-setup.exe",
+  "checksum": "sha256:e5efcd5850400fb8af084780cd6107527848eb09ccefcdc8bc56b316c811e635",
+  "release_notes": "v0.6.0: Creative Hub, Pipeline с контекстной цепочкой, Workflow Builder, Desktop notifications, auto-route artifacts, UX Polish",
   "mandatory": false,
-  "min_version": "0.1.0"
+  "min_version": "0.3.2"
 }

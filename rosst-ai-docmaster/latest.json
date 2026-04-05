@@ -1,7 +1,7 @@
 {
   "version": "0.6.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Agency_0.6.0_x64-setup.exe",
-  "checksum": "sha256:b003ec0dbadf3d2fa3e64259a4aa0ea5ad5166408fecbc0af4f0b76e9704c942",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Docu-master_0.6.0_x64-setup.exe",
+  "checksum": "sha256:6d5997ef713695fc8fd252afe90ce445736de33a506689b63e164533b438293e",
   "release_notes": "v0.6.0: Creative Hub, Pipeline с контекстной цепочкой, Workflow Builder, Desktop notifications, auto-route artifacts, UX Polish",
   "mandatory": false,
   "min_version": "0.3.2"
