@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Legal_0.6.0_x64-setup.exe",
-  "checksum": "sha256:03be03b8d530dcee40bf1f8bbb524a702d70b8aa286ef4896f0917100ba84120",
-  "release_notes": "v0.6.0: Creative Hub, Pipeline с контекстной цепочкой, Workflow Builder, Desktop notifications, auto-route artifacts, UX Polish",
+  "version": "0.7.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Legal_0.7.0_x64-setup.exe",
+  "checksum": "sha256:8a6c6f33912c642bcc79fdb7d52f5dfe6ab70a2b74af4d8d87c8f447e5d7757b",
+  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
   "mandatory": false,
   "min_version": "0.3.2"
 }

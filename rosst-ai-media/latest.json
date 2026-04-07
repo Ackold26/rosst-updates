@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.6.0/Aurora.AI.Insights.Hub_0.6.0_x64-setup.exe",
-  "checksum": "sha256:f299f46c5c8bb2ee517748b690514225b16281091717a5b29af8fc422b00e902",
-  "release_notes": "v0.6.0: Creative Hub, Pipeline с контекстной цепочкой, Workflow Builder, Desktop notifications, auto-route artifacts, UX Polish",
+  "version": "0.7.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Insights.Hub_0.7.0_x64-setup.exe",
+  "checksum": "sha256:7227f0fa2e2964adc7ca9ed269c19e23396e29e4232f2694d45a1f6da1c82187",
+  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
   "mandatory": false,
   "min_version": "0.3.2"
 }
