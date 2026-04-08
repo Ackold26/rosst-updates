@@ -1,8 +1,8 @@
 {
-  "version": "0.7.3",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.3-setup.exe",
-  "checksum": "sha256:0beb5c3594771ade40243b4584351ddce6a23cb44910b7b380272245d0c258a4",
-  "release_notes": "v0.7.3: scroll fix, dynamic product name, clean Home page",
+  "version": "0.7.5",
+  "download_url": "https",
+  "checksum": "sha256://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.5-setup.exe:0beb5c3594771ade40243b4584351ddce6a23cb44910b7b380272245d0c258a4",
+  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
   "mandatory": false,
   "min_version": "0.3.2"
 }

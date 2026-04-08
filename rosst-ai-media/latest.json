@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/media/0.7.0-setup.exe",
-  "checksum": "sha256:6e42c299542879306006f2d7eca3d463d2d22ea61a031ae70160df510d1defe3",
-  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
+  "version": "0.7.5",
+  "download_url": "https",
+  "checksum": "sha256://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/media/0.7.5-setup.exe:ece1bb2ae38361920325d4fad2aae4b8070daac51ee7b0d62b9a3b067e9f8694",
+  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
   "mandatory": false,
   "min_version": "0.3.2"
 }

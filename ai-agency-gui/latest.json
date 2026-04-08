@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Agency_0.7.0_x64-setup.exe",
-  "checksum": "sha256:1e30bd1f8748aa8ca6682002115d6444fd1220c1e4ddfdb372f1b0111a966046",
-  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
+  "version": "0.7.5",
+  "download_url": "https",
+  "checksum": "sha256://github.com/Ackold26/aurora-releases/releases/download/v0.7.5/Aurora.AI.Agency_0.7.5_x64-setup.exe:f37b1c6c970b435eb50a39ee7580cf334e49432d5cae7529e64d910d1633207e",
+  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
   "mandatory": false,
   "min_version": "0.3.2"
 }

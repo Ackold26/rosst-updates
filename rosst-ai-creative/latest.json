@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.0-setup.exe",
-  "checksum": "sha256:025fa7719081b69e7696e75106225b1440770c904b1548f3d8526eb03379060b",
-  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
+  "version": "0.7.5",
+  "download_url": "https",
+  "checksum": "sha256://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.5-setup.exe:5f903abfafc3972c7d21b492283244b21b0b864c9b5af740af6bfa4c4fe359b6",
+  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
   "mandatory": false,
   "min_version": "0.3.2"
 }
