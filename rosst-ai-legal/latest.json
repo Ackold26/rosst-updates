@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.2-setup.exe",
-  "checksum": "sha256:6be25e827e1720621ac0b6f7931c297dc41993a54a0b2b4ca0d77bb7ae087df4",
-  "release_notes": "v0.7.2: Product filter, scroll fix, app info",
+  "version": "0.7.3",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.3-setup.exe",
+  "checksum": "sha256:0beb5c3594771ade40243b4584351ddce6a23cb44910b7b380272245d0c258a4",
+  "release_notes": "v0.7.3: scroll fix, dynamic product name, clean Home page",
   "mandatory": false,
   "min_version": "0.3.2"
 }
