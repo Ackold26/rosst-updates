@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.1-setup.exe",
-  "checksum": "sha256:b70a07c30c11975ac7189a9410181eb9d5fb39b9b25772e78ebce9db5fe23efb",
-  "release_notes": "v0.7.1: UX Redesign — NavRail tabs, Selection/Execution modes, adaptive quick actions, structured responses",
+  "version": "0.7.2",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.2-setup.exe",
+  "checksum": "sha256:6be25e827e1720621ac0b6f7931c297dc41993a54a0b2b4ca0d77bb7ae087df4",
+  "release_notes": "v0.7.2: Product filter, scroll fix, app info",
   "mandatory": false,
   "min_version": "0.3.2"
 }
