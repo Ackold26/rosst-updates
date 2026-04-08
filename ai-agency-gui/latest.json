@@ -1,8 +1,8 @@
 {
   "version": "0.7.0",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Agency_0.7.0_x64-setup.exe",
-  "checksum": "sha256:4f0b0964b928411cd90bc1a894b08da0606d459fecfcc23d602ef723d66f5fb9",
-  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
+  "checksum": "sha256:1e30bd1f8748aa8ca6682002115d6444fd1220c1e4ddfdb372f1b0111a966046",
+  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
   "mandatory": false,
   "min_version": "0.3.2"
 }

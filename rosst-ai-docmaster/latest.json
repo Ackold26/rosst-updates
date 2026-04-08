@@ -1,8 +1,8 @@
 {
   "version": "0.7.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Docu-master_0.7.0_x64-setup.exe",
-  "checksum": "sha256:d395fdd735805100e4a4a6503b5a5db146fe526eb3c94d203552d5ee6827b7d8",
-  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.7.0-setup.exe",
+  "checksum": "sha256:680330e1e9c34aafa899d3981547f8b6334a355f6852eada3c52eb93e2369207",
+  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
   "mandatory": false,
   "min_version": "0.3.2"
 }

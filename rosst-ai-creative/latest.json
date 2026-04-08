@@ -1,8 +1,8 @@
 {
   "version": "0.7.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Creative_0.7.0_x64-setup.exe",
-  "checksum": "sha256:4654f8f17cc876c269b6d7581d44f967b4506133747de81a3ec87dbcbc568716",
-  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.0-setup.exe",
+  "checksum": "sha256:025fa7719081b69e7696e75106225b1440770c904b1548f3d8526eb03379060b",
+  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
   "mandatory": false,
   "min_version": "0.3.2"
 }

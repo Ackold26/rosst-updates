@@ -1,8 +1,8 @@
 {
   "version": "0.7.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Insights.Hub_0.7.0_x64-setup.exe",
-  "checksum": "sha256:7227f0fa2e2964adc7ca9ed269c19e23396e29e4232f2694d45a1f6da1c82187",
-  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/media/0.7.0-setup.exe",
+  "checksum": "sha256:6e42c299542879306006f2d7eca3d463d2d22ea61a031ae70160df510d1defe3",
+  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
   "mandatory": false,
   "min_version": "0.3.2"
 }

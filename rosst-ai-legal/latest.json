@@ -1,8 +1,8 @@
 {
   "version": "0.7.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.0/Aurora.AI.Legal_0.7.0_x64-setup.exe",
-  "checksum": "sha256:8a6c6f33912c642bcc79fdb7d52f5dfe6ab70a2b74af4d8d87c8f447e5d7757b",
-  "release_notes": "v0.7.0: Chat UX Overhaul — classifier, instant feedback, smart autoscroll, audio, cabinet-specific progress, 10-bug audit fix",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.0-setup.exe",
+  "checksum": "sha256:fb49c3168eaf7ce7eba6c90f636447f1d9ff046b922c8cab88f9ef552883e30d",
+  "release_notes": "v0.7.0+UX2: Workspace-first redesign — NavRail, Selection/Execution modes, CommandGrid, structured responses, glass calibration, PSY enhancements",
   "mandatory": false,
   "min_version": "0.3.2"
 }
