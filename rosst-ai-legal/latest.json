@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.0-setup.exe",
-  "checksum": "sha256:2be41f75e6911fa717adc71079ce78b48fd54a2c00644611c7636f1938c20a1d",
-  "release_notes": "v0.7.0+UX2: Workspace-first redesign, adaptive NavRail tabs, Selection/Execution modes, structured responses",
+  "version": "0.7.1",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.1-setup.exe",
+  "checksum": "sha256:b70a07c30c11975ac7189a9410181eb9d5fb39b9b25772e78ebce9db5fe23efb",
+  "release_notes": "v0.7.1: UX Redesign — NavRail tabs, Selection/Execution modes, adaptive quick actions, structured responses",
   "mandatory": false,
   "min_version": "0.3.2"
 }
