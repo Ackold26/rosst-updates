@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
-  "download_url": "https",
-  "checksum": "sha256://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/media/0.7.5-setup.exe:ece1bb2ae38361920325d4fad2aae4b8070daac51ee7b0d62b9a3b067e9f8694",
-  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
+  "version": "0.8.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.8.0/Aurora.AI.Insights.Hub_0.8.0_x64-setup.exe",
+  "checksum": "sha256:DCA698A87239CCED0FA5E33E4DE382617FF58DF7A105DCD4E32C2246558BA0BC",
+  "release_notes": "v0.8.0: PPTX Analytics Pipeline — multi-phase analysis, Executive Summary, bridges",
   "mandatory": false,
   "min_version": "0.3.2"
 }
