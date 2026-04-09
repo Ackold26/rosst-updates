@@ -1,0 +1,8 @@
+{
+  "version": "0.8.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.8.0/Aurora.AI.Insights.Hub_0.8.0_x64-setup.exe",
+  "checksum": "sha256:DCA698A87239CCED0FA5E33E4DE382617FF58DF7A105DCD4E32C2246558BA0BC",
+  "release_notes": "v0.8.0: PPTX Analytics Pipeline — multi-phase analysis, Executive Summary, bridges",
+  "mandatory": false,
+  "min_version": "0.3.2"
+}
