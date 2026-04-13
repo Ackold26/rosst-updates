@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/econometrica/1.0.0-setup.exe",
+  "checksum": "sha256:952bb8d8eb1d846b30b657f82ea7920f8fc8886ed11735d88d8d54a6f41af242",
+  "release_notes": "v1.0.0: Initial release — MMM, Python sidecar, 3 cabinets",
+  "mandatory": false,
+  "min_version": "0.3.2"
+}

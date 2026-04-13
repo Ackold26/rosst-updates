@@ -1,7 +1,7 @@
 {
   "version": "0.7.5",
-  "download_url": "https",
-  "checksum": "sha256://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.5-setup.exe:5f903abfafc3972c7d21b492283244b21b0b864c9b5af740af6bfa4c4fe359b6",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.5-setup.exe",
+  "checksum": "sha256:5f903abfafc3972c7d21b492283244b21b0b864c9b5af740af6bfa4c4fe359b6",
   "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
   "mandatory": false,
   "min_version": "0.3.2"
