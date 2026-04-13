@@ -1,6 +1,6 @@
 {
   "version": "0.7.5",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.7.5/Aurora.AI.Agency_0.7.5_x64-setup.exe",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/agency/0.7.5-setup.exe",
   "checksum": "sha256:0440cdeb1631f4cc5a305029cc19028505471c9e8a3623e6d4963ed531ac6416",
   "release_notes": "v0.7.5: UX Redesign v2.0 — workspace-first, adaptive NavRail, Selection/Execution modes",
   "mandatory": false,
