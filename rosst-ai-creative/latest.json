@@ -1,8 +1,8 @@
 {
   "version": "0.7.5",
   "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative/0.7.5-setup.exe",
-  "checksum": "sha256:5f903abfafc3972c7d21b492283244b21b0b864c9b5af740af6bfa4c4fe359b6",
-  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
+  "checksum": "sha256:d13b9c1f1c22c65fe52ccc0e5f37dbb0a75d24aa4825dc9a8042f653f6d6dabe",
+  "release_notes": "v0.7.5: UX Redesign v2.0, CommandBrief, PSY C3-C7",
   "mandatory": false,
   "min_version": "0.3.2"
 }

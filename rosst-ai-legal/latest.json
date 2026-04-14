@@ -1,8 +1,8 @@
 {
   "version": "0.7.5",
   "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.5-setup.exe",
-  "checksum": "sha256:0beb5c3594771ade40243b4584351ddce6a23cb44910b7b380272245d0c258a4",
-  "release_notes": "v0.7.5: UX Redesign v2.0 — scroll fix, product filter, adaptive NavRail",
+  "checksum": "sha256:13be89055c37b47518a98fc841be8d95211770a7f0913352a30b3666b2c121bc",
+  "release_notes": "v0.7.5: UX Redesign v2.0, CommandBrief, PSY C3-C7",
   "mandatory": false,
   "min_version": "0.3.2"
 }
