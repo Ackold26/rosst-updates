@@ -1,8 +1,8 @@
 {
   "version": "0.8.2",
   "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/media/0.8.2-setup.exe",
-  "checksum": "sha256:0a75eee84b5901e9511269fe80236483a03909ea49281a97c0f2c26857d49cd6",
-  "release_notes": "v0.8.2: fix auto-update banner (Supabase auth headers in updater)",
+  "checksum": "sha256:fc80d3ce068f28577a743802dea6ff77897f63be287432e16d77c6ae37158006",
+  "release_notes": "v0.8.2: fix auto-update banner, fun theme warm bg, rainbow theme icons",
   "mandatory": false,
   "min_version": "0.3.2"
 }
