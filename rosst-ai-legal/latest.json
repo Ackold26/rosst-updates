@@ -1,8 +1,8 @@
 {
-  "version": "0.7.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/0.7.5-setup.exe",
-  "checksum": "sha256:13be89055c37b47518a98fc841be8d95211770a7f0913352a30b3666b2c121bc",
-  "release_notes": "v0.7.5: UX Redesign v2.0, CommandBrief, PSY C3-C7",
+  "version": "0.8.5",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/Aurora-AI-Legal_0.8.5_x64-setup.exe",
+  "checksum": "sha256:cd79a0b92294bdbe4c9fe3d3eebbbf63e50ff69e0f61862b6df5fff4ec470857",
+  "release_notes": "v0.8.5: Thin Binary Architecture + Aurora AI v3",
   "mandatory": false,
-  "min_version": "0.3.2"
+  "min_version": "0.7.0"
 }
