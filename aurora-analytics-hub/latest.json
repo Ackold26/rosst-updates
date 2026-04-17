@@ -1,8 +1,1 @@
-{
-  "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora%20AI%20Analytics%20Hub_0.8.5_x64-setup.exe",
-  "checksum": "sha256:54fa03a953d2a6296198164caad1f33dcec2b7fc7d6dcf037135ea12592451b1",
-  "release_notes": "v0.8.5: UTF-8 fix for Russian Windows, diagnostics v2, clean start, 14 bugfixes",
-  "mandatory": false,
-  "min_version": "0.7.0"
-}
+{"version":"0.8.5","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora%20AI%20Analytics%20Hub_0.8.5_x64-setup.exe","checksum":"sha256:f016289236ddefc4deb54c6103e1a6d096e9d34d037cef4946dd8ba0afe68af0","release_notes":"v0.8.5: UTF-8 triple fix (PYTHONIOENCODING + stdout wrap + ensure_ascii), diagnostics v2, clean start, 15 bugfixes","mandatory":false,"min_version":"0.7.0"}
