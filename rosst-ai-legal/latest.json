@@ -1,8 +1,1 @@
-{
-  "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/Aurora-AI-Legal_0.8.5_x64-setup.exe",
-  "checksum": "sha256:ddff21e39c02197236bb6c9e3729fc41557dd2ba8da5106b863888bd9ec9b1b3",
-  "release_notes": "v0.8.5: Thin Binary + Aurora AI v3 + vault self-heal",
-  "mandatory": false,
-  "min_version": "0.7.0"
-}
+{"version":"0.8.5","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora%20AI%20Legal_0.8.5_x64-setup.exe","checksum":"sha256:f28a837ee7794d122711288e7a10557b1fe47e875ad26e5fad29bb08b497cf1d","release_notes":"v0.8.5: UTF-8 fix, diagnostics, clean start, Russian lang","mandatory":false,"min_version":"0.7.0"}
