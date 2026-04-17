@@ -1,8 +1,8 @@
 {
   "version": "0.8.5",
   "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora%20AI%20Analytics%20Hub_0.8.5_x64-setup.exe",
-  "checksum": "sha256:f2aad5aaa43ce26b14183d4e9a352677dc0052373efab38af5b75fc05ceba7b3",
-  "release_notes": "v0.8.5: bugfixes (spinner, licenseError, APP_VERSION), dependency auto-install, content-packs, icon",
+  "checksum": "sha256:bc81a0333ab31aa09fb4fea8f1040c1f7dec44968b676ccbde5becc45d6df13c",
+  "release_notes": "v0.8.5: fix inbox check, Russian lang, export click, auto-redirect guard, dep banner",
   "mandatory": false,
   "min_version": "0.7.0"
 }
