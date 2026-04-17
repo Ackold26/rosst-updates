@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/Ackold26/Aurora_Econometrica/releases/download/econometrica-v1.0.1/Aurora%20AI%20Econometrica_1.0.0_x64-setup.exe",
+  "checksum": "sha256:6049fc87d5a9d7940faaec99dbdfe4a487f092fa367bf36a7c31366b1c753767",
+  "release_notes": "v1.0.1: Sync Phase 5 JS libs, fix diagnostics identifier, enable crypto tests",
+  "mandatory": false,
+  "min_version": "0.7.0"
+}
