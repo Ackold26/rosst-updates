@@ -1,8 +1,8 @@
 {
   "version": "0.8.5",
   "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora%20AI%20Analytics%20Hub_0.8.5_x64-setup.exe",
-  "checksum": "sha256:c13ef63f2667968ba39cbeeca05e89d1592dd76f29369f3d3750ec0fd04005b0",
-  "release_notes": "v0.8.5: diagnostics export, heartbeat fix, clean start, slides inject, inbox check, Russian lang",
+  "checksum": "sha256:b3da9341a1e562ca71b7b1140c1ddd4f02d39ad700397b69a12959245485def7",
+  "release_notes": "v0.8.5: diagnostics v2, 13 bugfixes, clean start, Russian lang, inbox check",
   "mandatory": false,
   "min_version": "0.7.0"
 }
