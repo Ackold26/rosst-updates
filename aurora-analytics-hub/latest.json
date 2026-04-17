@@ -1,8 +1,8 @@
 {
   "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/analytics-hub/0.8.5-setup.exe",
-  "checksum": "sha256:bbd45a73ec10f8532ddf92560746a17aa9078fe22bb6586d3fe64a18f3b95761",
-  "release_notes": "v0.8.5: Analytics Hub — media analyst, 9 commands, universal content panel",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora%20AI%20Analytics%20Hub_0.8.5_x64-setup.exe",
+  "checksum": "sha256:f2aad5aaa43ce26b14183d4e9a352677dc0052373efab38af5b75fc05ceba7b3",
+  "release_notes": "v0.8.5: bugfixes (spinner, licenseError, APP_VERSION), dependency auto-install, content-packs, icon",
   "mandatory": false,
-  "min_version": "0.8.5"
+  "min_version": "0.7.0"
 }
