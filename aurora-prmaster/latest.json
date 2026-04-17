@@ -1,8 +1,1 @@
-{
-  "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/prmaster/Aurora-AI-PR-Master_0.8.5_x64-setup.exe",
-  "checksum": "sha256:6b09ee125ed6d42d48267ee71abf0154c3ddd85430e6b2bc9a767c66ef0bf413",
-  "release_notes": "v0.8.5: Thin Binary + Aurora AI v3 + vault self-heal",
-  "mandatory": false,
-  "min_version": "0.7.0"
-}
+{"version":"0.8.0","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-prmaster/Aurora%20AI%20PR%20Master_0.8.0_x64-setup.exe","checksum":"sha256:189350678defec9586522e21aa0e3239d59db5530d838a701bf10d97b8c63425","release_notes":"v0.8.0: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.7.0"}

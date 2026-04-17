@@ -1,8 +1,1 @@
-{
-  "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/Aurora-AI-Docu-Master_0.8.5_x64-setup.exe",
-  "checksum": "sha256:dc03773b1c29b23cf9e230d65ced7fd2ee97e1f0d0a6df4ae5b1e58f9fb7e107",
-  "release_notes": "v0.8.5: Thin Binary + Aurora AI v3 + vault self-heal",
-  "mandatory": false,
-  "min_version": "0.7.0"
-}
+{"version":"0.8.5","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-docmaster/Aurora%20AI%20Docu%20Master_0.8.5_x64-setup.exe","checksum":"sha256:0025bb65bfd1b936fdbe66a90c42d65b47bdc24f34ae75f2472410ee65aef0db","release_notes":"v0.8.5: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.7.0"}

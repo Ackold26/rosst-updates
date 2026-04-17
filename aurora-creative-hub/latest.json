@@ -1,8 +1,1 @@
-{
-  "version": "0.8.5",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/creative-hub/Aurora-AI-Creative-Hub_0.8.5_x64-setup.exe",
-  "checksum": "sha256:152457eecde8c1e4c459b0dc997b85015777fd4cbd6d6d61c19be33171c36c0a",
-  "release_notes": "v0.8.5: Thin Binary + Aurora AI v3 + vault self-heal",
-  "mandatory": false,
-  "min_version": "0.7.0"
-}
+{"version":"0.6.0","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-creative-hub/Aurora%20AI%20Creative%20Hub_0.6.0_x64-setup.exe","checksum":"sha256:d67592a9de5a80973298590a3309bccfa6c117f5ff1718d4a34b0489aabe265e","release_notes":"v0.6.0: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.5.0"}
