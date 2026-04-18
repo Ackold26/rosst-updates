@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/oracle/Aurora_AI_Oracle_0.1.0_x64-setup.exe",
+  "checksum": "sha256:e498abc7a4893863ffedac3f18be0044f6fcae3b5932f2eccd3828081d6773ae",
+  "release_notes": "v0.1.0: Aurora AI Oracle — синтетические маркетинговые исследования. 2 кабинета, 15 команд, SURE Score, Chain-of-Feeling, Oracle Insight.",
+  "mandatory": false,
+  "min_version": "0.1.0"
+}
