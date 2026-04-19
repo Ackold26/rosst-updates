@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/econometrica/1.0.0-setup.exe",
-  "checksum": "sha256:952bb8d8eb1d846b30b657f82ea7920f8fc8886ed11735d88d8d54a6f41af242",
-  "release_notes": "v1.0.0: Initial release — MMM, Python sidecar, 3 cabinets",
+  "version": "1.0.7",
+  "download_url": "https://github.com/Ackold26/Aurora_Econometrica/releases/download/v1.0.7-s10-help-ux-polish/Aurora.AI.Econometrica_1.0.7_x64-setup.exe",
+  "checksum": "sha256:923438eb269189eda41447070a7babfeea84d763501d3a24e64af28201069d0a",
+  "release_notes": "v1.0.7 (S10): новая справочная система (разделы data-preparation/pipeline/methodology/FAQ/system-requirements), единая кнопка «?» в header, 6 новых команд-консультантов в кабинете, управляемый UnitCostsPanel, реалистичная оценка MCMC (~3 мин вместо 31), auto-respawn вычислительного модуля, восстановление данных pipeline при активации проекта, money-mode ROAS для смешанных единиц.",
   "mandatory": false,
-  "min_version": "0.3.2"
+  "min_version": "1.0.0"
 }
