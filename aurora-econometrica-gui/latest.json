@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "download_url": "https://github.com/Ackold26/Aurora_Econometrica/releases/download/v1.0.8-hotfix-pytensor-arviz/Aurora.AI.Econometrica_1.0.8_x64-setup.exe",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.8-econometrica/Aurora.AI.Econometrica_1.0.8_x64-setup.exe",
   "checksum": "sha256:7eb506e32a89ccf21de540a75787874741043ea6332e4e930f547857f29df511",
   "release_notes": "v1.0.8 hotfix: фикс сборки Python-модуля — arviz и pytensor runtime-файлы (HTML/JSON/C-шаблоны) теперь попадают в бандл. Раньше /health или валидация данных падали с FileNotFoundError на машинах клиентов. Плюс расширенная стартовая диагностика в логах (%APPDATA%/aurora-econometrica-gui/logs/).",
   "mandatory": false,
