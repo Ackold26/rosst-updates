@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/Ackold26/Aurora_Econometrica/releases/download/v1.0.7-s10-help-ux-polish/Aurora.AI.Econometrica_1.0.7_x64-setup.exe",
-  "checksum": "sha256:923438eb269189eda41447070a7babfeea84d763501d3a24e64af28201069d0a",
-  "release_notes": "v1.0.7 (S10): новая справочная система (разделы data-preparation/pipeline/methodology/FAQ/system-requirements), единая кнопка «?» в header, 6 новых команд-консультантов в кабинете, управляемый UnitCostsPanel, реалистичная оценка MCMC (~3 мин вместо 31), auto-respawn вычислительного модуля, восстановление данных pipeline при активации проекта, money-mode ROAS для смешанных единиц.",
+  "version": "1.0.8",
+  "download_url": "https://github.com/Ackold26/Aurora_Econometrica/releases/download/v1.0.8-hotfix-pytensor-arviz/Aurora.AI.Econometrica_1.0.8_x64-setup.exe",
+  "checksum": "sha256:7eb506e32a89ccf21de540a75787874741043ea6332e4e930f547857f29df511",
+  "release_notes": "v1.0.8 hotfix: фикс сборки Python-модуля — arviz и pytensor runtime-файлы (HTML/JSON/C-шаблоны) теперь попадают в бандл. Раньше /health или валидация данных падали с FileNotFoundError на машинах клиентов. Плюс расширенная стартовая диагностика в логах (%APPDATA%/aurora-econometrica-gui/logs/).",
   "mandatory": false,
   "min_version": "1.0.0"
 }
