@@ -22,7 +22,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
+          # cache: 'pip' removed — нет requirements.txt в repo (deployment-only).
+          # check-jsonschema ~1s install, overhead кэша не оправдан.
 
       - name: Install check-jsonschema
         run: pip install check-jsonschema==0.33.2
