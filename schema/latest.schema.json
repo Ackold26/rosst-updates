@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/Ackold26/rosst-updates/schema/latest.schema.json",
+  "title": "Aurora product latest.json",
+  "description": "Schema для manifest-файлов auto-updater'а Aurora AI продуктов.",
+  "type": "object",
+  "required": [
+    "version",
+    "download_url",
+    "checksum",
+    "mandatory",
+    "min_version"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+(?:-[A-Za-z0-9.-]+)?$",
+      "description": "Semver — MAJOR.MINOR.PATCH, с опциональным pre-release suffix (rc1, beta.2)."
+    },
+    "download_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://",
+      "description": "HTTPS URL на .exe installer."
+    },
+    "checksum": {
+      "type": "string",
+      "pattern": "^sha256:[0-9a-fA-F]{64}$",
+      "description": "sha256:<64 hex chars>, case-insensitive (lowercase предпочтительно)."
+    },
+    "redirect_product": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Ключ продукта, на который переадресуется клиент (для переименований). См. rosst-ai-creative → creative-hub."
+    },
+    "release_notes": {
+      "type": "string",
+      "maxLength": 2000,
+      "description": "Короткое описание release для клиентов (опционально)."
+    },
+    "mandatory": {
+      "type": "boolean",
+      "description": "Если true — клиент не может отказаться от обновления."
+    },
+    "min_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Минимальная версия клиента для получения offer'а. Semver без pre-release."
+    }
+  }
+}

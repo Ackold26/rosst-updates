@@ -1,0 +1,45 @@
+name: Validate latest.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/latest.json'
+      - 'schema/latest.schema.json'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - '**/latest.json'
+      - 'schema/latest.schema.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema==0.33.2
+
+      - name: Validate all latest.json files
+        run: |
+          set -e
+          shopt -s nullglob
+          FAIL=0
+          for f in */latest.json; do
+            echo "::group::$f"
+            if check-jsonschema --schemafile schema/latest.schema.json "$f"; then
+              echo "  ✓ valid"
+            else
+              echo "::error file=$f::schema validation failed"
+              FAIL=1
+            fi
+            echo "::endgroup::"
+          done
+          exit $FAIL
