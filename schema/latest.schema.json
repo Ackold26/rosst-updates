@@ -21,8 +21,8 @@
     "download_url": {
       "type": "string",
       "format": "uri",
-      "pattern": "^https://",
-      "description": "HTTPS URL на .exe installer."
+      "pattern": "^https://\\S+$",
+      "description": "HTTPS URL на .exe installer, без whitespace."
     },
     "checksum": {
       "type": "string",
