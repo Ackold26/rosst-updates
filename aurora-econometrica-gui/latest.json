@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.8-econometrica/Aurora.AI.Econometrica_1.0.8_x64-setup.exe",
-  "checksum": "sha256:7eb506e32a89ccf21de540a75787874741043ea6332e4e930f547857f29df511",
-  "release_notes": "v1.0.8 hotfix: фикс сборки Python-модуля — arviz и pytensor runtime-файлы (HTML/JSON/C-шаблоны) теперь попадают в бандл. Раньше /health или валидация данных падали с FileNotFoundError на машинах клиентов. Плюс расширенная стартовая диагностика в логах (%APPDATA%/aurora-econometrica-gui/logs/).",
+  "version": "1.0.9",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.9-rc2/Aurora.AI.Econometrica_1.0.9_x64-setup.exe",
+  "checksum": "sha256:6ae6524d8a235d087ca641000fa4957d3d6ba102598d4114c538eb62c34cf42d",
+  "release_notes": "v1.0.9 stable: port isolation (multi-user RDP safe), multi-core MCMC через JAX (train 190s→20s, 9.5× speedup), Tier-1 NumPyro JAX, graceful sidecar shutdown, Windows Firewall loopback rule, quarantine legacy AppData. 37/38 PASS на CLOUDEAI live-test.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
