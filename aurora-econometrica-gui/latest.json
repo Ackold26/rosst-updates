@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.10/Aurora.AI.Econometrica_1.0.10_x64-setup.exe",
-  "checksum": "sha256:a98f06e253905a2b59926a4bf10002be735f0588b626c9b7098adc6c2a6f2fc4",
-  "release_notes": "v1.0.10 stable: Comparison side-by-side, Save/Load .aurora archives, HTML export, merge recommendation end-to-end. Session 17 fixes: PyMC forward slowdown + DecomposeStep race.",
+  "version": "1.0.13",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.13/Aurora.AI.Econometrica_1.0.13_x64-setup.exe",
+  "checksum": "sha256:bf3e873dbaad3a80123569eb61d806e3063e4d890c10b8e2e9998a3b00870beb",
+  "release_notes": "v1.0.13 — Phase 0.1 math hardening: единый mROAS chain rule с adstock factor + /unit_cost (закрыт TRPs 1780× баг), multi-start SLSQP (защита от local optimum), money-mode constraint для mixed-units, дефолты bounds 20%-200%, conditional precision в narrative (никаких \"при 0% бюджета\"), data-driven recommendations, 19 findings closed.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
