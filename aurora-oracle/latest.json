@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/oracle/Aurora_AI_Oracle_0.1.0_x64-setup.exe",
-  "checksum": "sha256:e498abc7a4893863ffedac3f18be0044f6fcae3b5932f2eccd3828081d6773ae",
-  "release_notes": "v0.1.0: Aurora AI Oracle — синтетические маркетинговые исследования. 2 кабинета, 15 команд, SURE Score, Chain-of-Feeling, Oracle Insight.",
+  "version": "0.3.1",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.1-oracle/Aurora.AI.Oracle_0.3.1_x64-setup.exe",
+  "checksum": "sha256:a0a0cf78d16c2b86f26fac1e92e3d3d4acd9f388284ae5bf4c0c83834e0a2cb7",
+  "release_notes": "Aurora AI Oracle v0.3.1 — первый клиентский релиз. Два кабинета: Research (11 команд для синтетических исследований) и Panel (4 команды для управления панелями). SURE-оценка достоверности (S/U/R/E), Chain-of-Feeling и anti-sycophancy. Audience Library с 8 готовыми ICP-панелями + Live Persona Explorer. Right Dock с тремя вкладками, drag-drop файлов, изменение ширины окон. Полная справочная система.",
   "mandatory": false,
-  "min_version": "0.1.0"
+  "min_version": "0.3.1"
 }
