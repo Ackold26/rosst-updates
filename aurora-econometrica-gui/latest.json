@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.13/Aurora.AI.Econometrica_1.0.13_x64-setup.exe",
-  "checksum": "sha256:bf3e873dbaad3a80123569eb61d806e3063e4d890c10b8e2e9998a3b00870beb",
-  "release_notes": "v1.0.13 — Phase 0.1 math hardening: единый mROAS chain rule с adstock factor + /unit_cost (закрыт TRPs 1780× баг), multi-start SLSQP (защита от local optimum), money-mode constraint для mixed-units, дефолты bounds 20%-200%, conditional precision в narrative (никаких \"при 0% бюджета\"), data-driven recommendations, 19 findings closed.",
+  "version": "1.0.15",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.15/Aurora.AI.Econometrica_1.0.15_x64-setup.exe",
+  "checksum": "sha256:e713f83b203a1625beec3ad2ba9aedf579973ece74e4b656b6efe8d646532c15",
+  "release_notes": "v1.0.15 — Optimizer + Narrative consistency hotfix. Optimizer теперь находит реальное перераспределение бюджета (на тест-данных Кагоцел: lift +28.3% вместо 0%). HTML отчёт устранил 4 narrative противоречия через единый source of truth для action labels.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
