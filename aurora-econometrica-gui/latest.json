@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.15/Aurora.AI.Econometrica_1.0.15_x64-setup.exe",
-  "checksum": "sha256:e713f83b203a1625beec3ad2ba9aedf579973ece74e4b656b6efe8d646532c15",
-  "release_notes": "v1.0.15 — Optimizer + Narrative consistency hotfix. Optimizer теперь находит реальное перераспределение бюджета (на тест-данных Кагоцел: lift +28.3% вместо 0%). HTML отчёт устранил 4 narrative противоречия через единый source of truth для action labels.",
+  "version": "1.0.16",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.16/Aurora.AI.Econometrica_1.0.16_x64-setup.exe",
+  "checksum": "sha256:2cf603f95a34294f2ca5df272d2be933b7c741e1152260609b00fd267060cf94",
+  "release_notes": "v1.0.16 — math-fix v1.4 Section C. Three-way alignment decompose↔optimize↔narrative (max Δ=0.0000). Engine selector Bayesian/OLS auto. Unified «Создать отчёт» button с radio-селектором. Block C/D refactor (Прогноз интегрирован в What-if с inflation overlay). Bounds 0..500%. L22+L23 narrative consistency (Венарус live-test). 25+ findings closed. 552+/552+ tests PASS.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
