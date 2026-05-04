@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.10/Aurora.AI.Econometrica_1.0.10_x64-setup.exe",
-  "checksum": "sha256:a98f06e253905a2b59926a4bf10002be735f0588b626c9b7098adc6c2a6f2fc4",
-  "release_notes": "v1.0.10 stable: Comparison side-by-side, Save/Load .aurora archives, HTML export, merge recommendation end-to-end. Session 17 fixes: PyMC forward slowdown + DecomposeStep race.",
+  "version": "1.2.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.0/Aurora_AI_Econometrica_1.2.0_x64-setup.exe",
+  "checksum": "sha256:a400b98884bc12764be0403d5cfa2495c4b09e40956eb3f0af9570efb29ba64b",
+  "release_notes": "v1.2.0: Phase 2 Planning Mode + Phase 2.7 audit cluster — hierarchical β-pooling warning (L5), ChannelTimeline highlight-at-cursor, lift% canonical formula across 3 engines (optimizer + scenario + frontend), 6 XLSX export bugs fixed in Rust, brand logo integration (HTML inline SVG, PPTX cuted compact + full back cover, XLSX top-left), forecast horizon picker race condition fix, whatif pure-frontend Hill saturation. Math change: expected_lift_pct теперь total business KPI ratio (canonical), media-only legacy preserved as media_only_lift_pct field. 838 pytest passed.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
