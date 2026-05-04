@@ -1,8 +1,8 @@
 {
-  "version": "1.0.16",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.0.16/Aurora.AI.Econometrica_1.0.16_x64-setup.exe",
-  "checksum": "sha256:2cf603f95a34294f2ca5df272d2be933b7c741e1152260609b00fd267060cf94",
-  "release_notes": "v1.0.16 — math-fix v1.4 Section C. Three-way alignment decompose↔optimize↔narrative (max Δ=0.0000). Engine selector Bayesian/OLS auto. Unified «Создать отчёт» button с radio-селектором. Block C/D refactor (Прогноз интегрирован в What-if с inflation overlay). Bounds 0..500%. L22+L23 narrative consistency (Венарус live-test). 25+ findings closed. 552+/552+ tests PASS.",
+  "version": "1.2.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.0/Aurora_AI_Econometrica_1.2.0_x64-setup.exe",
+  "checksum": "sha256:a400b98884bc12764be0403d5cfa2495c4b09e40956eb3f0af9570efb29ba64b",
+  "release_notes": "v1.2.0: Phase 2 Planning Mode + Phase 2.7 audit cluster — hierarchical β-pooling warning (L5), ChannelTimeline highlight-at-cursor, lift% canonical formula across 3 engines (optimizer + scenario + frontend), 6 XLSX export bugs fixed in Rust, brand logo integration (HTML inline SVG, PPTX cuted compact + full back cover, XLSX top-left), forecast horizon picker race condition fix, whatif pure-frontend Hill saturation. Math change: expected_lift_pct теперь total business KPI ratio (canonical), media-only legacy preserved as media_only_lift_pct field. 838 pytest passed.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
