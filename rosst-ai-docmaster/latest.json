@@ -1,1 +1,8 @@
-{"version":"0.8.5","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-docmaster/Aurora%20AI%20Docu%20Master_0.8.5_x64-setup.exe","checksum":"sha256:0025bb65bfd1b936fdbe66a90c42d65b47bdc24f34ae75f2472410ee65aef0db","release_notes":"v0.8.5: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.7.0"}
+{
+  "version": "0.8.6",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.8.6-setup.exe",
+  "checksum": "sha256:22c4187e55ef3abee10db30c4fe5e0d19e45721b5947b73a4418f13b0c34af7d",
+  "release_notes": "v0.8.6: rebrand на «Aurora AI Docs Lab», hard SCOPE для чата (узкая роль кабинета без mission creep), порт UX/UI из Legal Center (JS-tooltip CommandCard, folder buttons FileList, breadcrumb 24px + clock в header), tokens design system + Inter Variable font + Sacred Lime focus, port-isolation infrastructure из Insights Hub. Modern license-polling UI 5-веток.",
+  "mandatory": false,
+  "min_version": "0.7.0"
+}
