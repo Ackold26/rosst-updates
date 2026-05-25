@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.0/Aurora_AI_Econometrica_1.2.0_x64-setup.exe",
-  "checksum": "sha256:a400b98884bc12764be0403d5cfa2495c4b09e40956eb3f0af9570efb29ba64b",
-  "release_notes": "v1.2.0: Phase 2 Planning Mode + Phase 2.7 audit cluster — hierarchical β-pooling warning (L5), ChannelTimeline highlight-at-cursor, lift% canonical formula across 3 engines (optimizer + scenario + frontend), 6 XLSX export bugs fixed in Rust, brand logo integration (HTML inline SVG, PPTX cuted compact + full back cover, XLSX top-left), forecast horizon picker race condition fix, whatif pure-frontend Hill saturation. Math change: expected_lift_pct теперь total business KPI ratio (canonical), media-only legacy preserved as media_only_lift_pct field. 838 pytest passed.",
+  "version": "2.1.0-rc7",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc7/Aurora_AI_Econometrica_2.1.0-rc7_x64-setup.exe",
+  "checksum": "sha256:8bfbee862d123da14662128b559be1483074f0f8fd060372e6ee7baee01f9002",
+  "release_notes": "v2.1.0-rc7: Phase 3 help-system (двухуровневый ConvergenceDashboard banner, MCMC preset radio, jargon-free insights, GlossaryTerm popup) + 11 production fixes (Goal-Seek .path schema, inverse.py wrapper schema, optimizer truthy + money_target, sidecar email_validator bundle, mode toggle UX rename, GoalSeekResultCard div-by-zero overflow, target input NBSP formatting, MQSBadge dedupe, +layout store restore, drop Ошибка: prefix, MCMC jargon cleanup).",
   "mandatory": false,
   "min_version": "1.0.0"
 }
