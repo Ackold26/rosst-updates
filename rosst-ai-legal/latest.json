@@ -1,8 +1,8 @@
 {
-  "version": "0.8.6",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora%20AI%20Legal%20Center_0.8.6_x64-setup.exe",
-  "checksum": "sha256:0203c351832f73abcfaafd1282ea69e21dbb0b0bd1fe9a7fb0479ea3b9ce8e09",
-  "release_notes": "v0.8.6: ребрендинг Analytics Hub → Aurora AI Legal Center, переключатель стороны анализа (A/Нейтрально/B) для договоров и претензий, всплывающие подсказки команд, кнопка открытия папки в проводнике, переименование 28 команд.",
+  "version": "0.8.7",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora%20AI%20Legal%20Center_0.8.7_x64-setup.exe",
+  "checksum": "sha256:b3c13d2f28ee168c7ace0a93db0f7b2a42776bd6331fa6d4ab38be1c0ccec283",
+  "release_notes": "v0.8.7: post-release cleanup. Onboarding переписан под Legal (3 кабинета), удалены leaked секции Agency из настроек (Подключение, Статистика), справка очищена от 13 страниц других продуктов (12 кабинетов Agency + pipeline), about/index/user-guide синхронизированы.",
   "mandatory": false,
   "min_version": "0.3.2"
 }
