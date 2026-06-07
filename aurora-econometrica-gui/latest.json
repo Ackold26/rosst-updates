@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0-rc7",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc7/Aurora_AI_Econometrica_2.1.0-rc7_x64-setup.exe",
-  "checksum": "sha256:8bfbee862d123da14662128b559be1483074f0f8fd060372e6ee7baee01f9002",
-  "release_notes": "v2.1.0-rc7: Phase 3 help-system (двухуровневый ConvergenceDashboard banner, MCMC preset radio, jargon-free insights, GlossaryTerm popup) + 11 production fixes (Goal-Seek .path schema, inverse.py wrapper schema, optimizer truthy + money_target, sidecar email_validator bundle, mode toggle UX rename, GoalSeekResultCard div-by-zero overflow, target input NBSP formatting, MQSBadge dedupe, +layout store restore, drop Ошибка: prefix, MCMC jargon cleanup).",
+  "version": "2.1.0-rc9",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc9/Aurora_AI_Econometrica_2.1.0-rc9_x64-setup.exe",
+  "checksum": "sha256:31a6d0ae2496156826f5d87005908731df94fe185c7963d7354dcc72276a8c8a",
+  "release_notes": "v2.1.0-rc9 (вбирает rc8): переработанная справка (SSOT-глоссарий, Интерпретация результатов, каталог функций, Ctrl+K, xlsx-шаблоны) · честный движок декомпозиции (synthetic-truth, INV-50) · закрыт LOAD-1 · UI: горизонтальный логотип + OPTIMIZER MMM, KPI на всю ширину, Ctrl+F поиск. Unsigned. Деинсталлятор завершает sidecar.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
