@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0-rc9",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc9/Aurora_AI_Econometrica_2.1.0-rc9_x64-setup.exe",
-  "checksum": "sha256:31a6d0ae2496156826f5d87005908731df94fe185c7963d7354dcc72276a8c8a",
-  "release_notes": "v2.1.0-rc9 (вбирает rc8): переработанная справка (SSOT-глоссарий, Интерпретация результатов, каталог функций, Ctrl+K, xlsx-шаблоны) · честный движок декомпозиции (synthetic-truth, INV-50) · закрыт LOAD-1 · UI: горизонтальный логотип + OPTIMIZER MMM, KPI на всю ширину, Ctrl+F поиск. Unsigned. Деинсталлятор завершает sidecar.",
+  "version": "2.1.0-rc10",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc10/Aurora_AI_Econometrica_2.1.0-rc10_x64-setup.exe",
+  "checksum": "sha256:8d27de26a1083dbd092a618aea21e371f81672885391eed04b2bd24e135c9473",
+  "release_notes": "v2.1.0-rc10: управление авто-праздниками РФ (Tier-3/OVB) — на шаге «Модель» панель 12 праздников; после обучения видно «не повлиял»/«влияет», неинформативные можно отключить без смещения ROI каналов и MQS. Пересобранный движок + per-control contraction. Unsigned.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
