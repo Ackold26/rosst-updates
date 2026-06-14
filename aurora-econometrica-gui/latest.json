@@ -1,7 +1,7 @@
 {
   "version": "2.1.0-rc11",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc11/Aurora_AI_Econometrica_2.1.0-rc11_x64-setup.exe",
-  "checksum": "sha256:574c3b286f1c11822d16efbb4a3b1c3d37a47d6a42703ff4648e3a0ab2120074",
+  "checksum": "sha256:ab4822d8ac9827609ccc6ec49d20d0924d1c22e12b45b35f5bf427f3626dc2c5",
   "release_notes": "v2.1.0-rc11: график прогноза продаж по сценариям (per-period CI-веер 90% HDI) + устранены чёрные окна NSIS при install/uninstall + тёплые палитры (светлая беж/фан песок) + иконка кофе вместо радуги + системный XSS-фикс ECharts tooltip'ов.",
   "mandatory": false,
   "min_version": "1.0.0"
