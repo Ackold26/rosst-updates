@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0-rc10",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc10/Aurora_AI_Econometrica_2.1.0-rc10_x64-setup.exe",
-  "checksum": "sha256:8d27de26a1083dbd092a618aea21e371f81672885391eed04b2bd24e135c9473",
-  "release_notes": "v2.1.0-rc10: управление авто-праздниками РФ (Tier-3/OVB) — на шаге «Модель» панель 12 праздников; после обучения видно «не повлиял»/«влияет», неинформативные можно отключить без смещения ROI каналов и MQS. Пересобранный движок + per-control contraction. Unsigned.",
+  "version": "2.1.0-rc11",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc11/Aurora_AI_Econometrica_2.1.0-rc11_x64-setup.exe",
+  "checksum": "sha256:574c3b286f1c11822d16efbb4a3b1c3d37a47d6a42703ff4648e3a0ab2120074",
+  "release_notes": "v2.1.0-rc11: график прогноза продаж по сценариям (per-period CI-веер 90% HDI) + устранены чёрные окна NSIS при install/uninstall + тёплые палитры (светлая беж/фан песок) + иконка кофе вместо радуги + системный XSS-фикс ECharts tooltip'ов.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
