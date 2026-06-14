@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0-rc11",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0-rc11/Aurora_AI_Econometrica_2.1.0-rc11_x64-setup.exe",
-  "checksum": "sha256:ab4822d8ac9827609ccc6ec49d20d0924d1c22e12b45b35f5bf427f3626dc2c5",
-  "release_notes": "v2.1.0-rc11: график прогноза продаж по сценариям (per-period CI-веер 90% HDI) + устранены чёрные окна NSIS при install/uninstall + тёплые палитры (светлая беж/фан песок) + иконка кофе вместо радуги + системный XSS-фикс ECharts tooltip'ов.",
+  "version": "2.1.0",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.1.0/Aurora_AI_Econometrica_2.1.0_x64-setup.exe",
+  "checksum": "sha256:121de4aab0f8a85c7decfe6e3e3d868cec45f8aebac4ea0b2abad7f5daf48082",
+  "release_notes": "v2.1.0: честная оценка надёжности рекомендаций оптимизатора (отказ при несошедшейся модели, оговорки при малых данных); мастер-переключатель учёта праздников; полировка иерархических моделей и дивергенций; единый стиль иконок; локальная редакция (152-ФЗ) и документ потоков данных.",
   "mandatory": false,
   "min_version": "1.0.0"
 }
