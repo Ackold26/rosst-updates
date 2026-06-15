@@ -1,8 +1,8 @@
 {
-  "version": "0.3.3",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.3-oracle/Aurora.AI.Synthetic.Research_0.3.3_x64-setup.exe",
-  "checksum": "sha256:75c5a11ecb2dbdf52d2f0c0cdaf7c45e029a018418cef0d57c1105ad9afa800e",
-  "release_notes": "v0.3.3 — библиотека-редизайн (развилка + соц-дем визард + провенанс), единый Lucide-стиль иконок вместо эмодзи, PPTX-баннер больше не горит ложно (детект встроенного Python), фикс prerelease auto-update (rc→rc).",
+  "version": "0.3.4",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.4-oracle/Aurora.AI.Synthetic.Research_0.3.4_x64-setup.exe",
+  "checksum": "sha256:08247abb96fff0daa06c0ef8bdc7469b16bab4c02fdff369bbf8c47a7a086944",
+  "release_notes": "v0.3.4 — исправлена загрузка библиотеки готовых поведенческих панелей (content-pack путь _up_ в установленной версии).",
   "mandatory": false,
   "min_version": "0.1.0"
 }
