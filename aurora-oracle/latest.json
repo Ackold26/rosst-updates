@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.2-oracle/Aurora.AI.Oracle_0.3.2_x64-setup.exe",
-  "checksum": "sha256:2bbd8e7ab4de23b5fd7602dc7bf981a615fc5cfcd3232dba9e6bbf852a08a04f",
-  "release_notes": "v0.3.2 — Aurora Hybrid Design System + Sacred Lime Ritual, кнопка помощи (?) в правом верхнем углу Home, vendor tokens.generated.css, единая Aurora brand icon (byte-identical с Aurora Econometrica per ADR-007 v2).",
+  "version": "0.3.3",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.3-oracle/Aurora.AI.Synthetic.Research_0.3.3_x64-setup.exe",
+  "checksum": "sha256:75c5a11ecb2dbdf52d2f0c0cdaf7c45e029a018418cef0d57c1105ad9afa800e",
+  "release_notes": "v0.3.3 — библиотека-редизайн (развилка + соц-дем визард + провенанс), единый Lucide-стиль иконок вместо эмодзи, PPTX-баннер больше не горит ложно (детект встроенного Python), фикс prerelease auto-update (rc→rc).",
   "mandatory": false,
   "min_version": "0.1.0"
 }
