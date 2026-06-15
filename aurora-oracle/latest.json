@@ -1,8 +1,8 @@
 {
-  "version": "0.3.4",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.4-oracle/Aurora.AI.Synthetic.Research_0.3.4_x64-setup.exe",
-  "checksum": "sha256:08247abb96fff0daa06c0ef8bdc7469b16bab4c02fdff369bbf8c47a7a086944",
-  "release_notes": "v0.3.4 — исправлена загрузка библиотеки готовых поведенческих панелей (content-pack путь _up_ в установленной версии).",
+  "version": "0.3.5",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.5-oracle/Aurora.AI.Synthetic.Research_0.3.5_x64-setup.exe",
+  "checksum": "sha256:0031425c3a80369b1e2aece4f0fef72dbd4fe5ac2fc3f977ca36a139e2bc36dc",
+  "release_notes": "v0.3.5 — убрано окно ошибки python.exe (0xc0000142) при открытии кабинета (CREATE_NO_WINDOW на проверке зависимостей).",
   "mandatory": false,
   "min_version": "0.1.0"
 }
