@@ -1,1 +1,8 @@
-{"version": "1.1.0", "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-analytics-hub/Aurora.AI.Smart.Analytica_1.1.0_x64-setup.exe", "checksum": "sha256:f388c0df3bd46d958cf8ec0696fe4b0bb652555c1f4c36c72c3f4f8b42d12752", "release_notes": "v1.1.0: групповой вход выгрузок + расширенный отчёт (сезонность, SOS/SOM, цены, медиа-микс, приложение по брендам)", "mandatory": false, "min_version": "0.7.0"}
+{
+    "version":  "1.2.0",
+    "download_url":  "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.0-analytics-hub/Aurora.AI.Smart.Analytica_1.2.0_x64-setup.exe",
+    "checksum":  "sha256:9af1bfec47766fb9ded8043a933146101b6797c4de1b84547e046db98caac5fd",
+    "release_notes":  "v1.2.0: анализ роликов (распознавание озвучки) + BrandPulse + продажи по регионам + обновлённый интерфейс и канон кабинетов",
+    "mandatory":  false,
+    "min_version":  "0.3.2"
+}
