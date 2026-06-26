@@ -1,8 +1,8 @@
 {
-  "version": "0.8.6",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora%20AI%20Legal%20Center_0.8.6_x64-setup.exe",
-  "checksum": "sha256:0203c351832f73abcfaafd1282ea69e21dbb0b0bd1fe9a7fb0479ea3b9ce8e09",
-  "release_notes": "v0.8.6: ребрендинг Analytics Hub → Aurora AI Legal Center, переключатель стороны анализа (A/Нейтрально/B) для договоров и претензий, всплывающие подсказки команд, кнопка открытия папки в проводнике, переименование 28 команд.",
+  "version": "0.8.9",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.8.9-setup.exe",
+  "checksum": "sha256:2e487f165ac3b89afd919de3b1e821a4a1a4dcbf3124da8b805dbc22e96b1b3e",
+  "release_notes": "v0.8.9: сверка договора с корпоративным стандартом (/contract-vs-standard), обновлены режимы обработки данных, улучшен свободный вопрос по документу, фикс кодировки в локальном выводе.",
   "mandatory": false,
   "min_version": "0.3.2"
 }
