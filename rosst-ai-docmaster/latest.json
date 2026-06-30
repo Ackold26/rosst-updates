@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.9.0-setup.exe",
-  "checksum": "sha256:2b84a250ccb0841b4472bd04e0005ddeea7c5733a942f952fb992c25149375e3",
-  "release_notes": "v0.9.0: Стабилизация лицензии (исключены съёмные/USB-диски из machine fingerprint — лечит «лицензия не найдена через день»), новый UX кабинета (богатые карточки команд в стиле Aurora Oracle), полностью переработанная справка (button-first, пошаговые инструкции по каждой команде, дизайн Legal Center).",
+  "version": "0.10.0",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.0-setup.exe",
+  "checksum": "sha256:bf12ff8aa795805270abc1adc1c728ab6180c89f383a07cef25753e902a1a4c8",
+  "release_notes": "v0.10.0: doc-batch Режим A – сборка комплектов документов из таблицы; два кабинета; ПДн-контур.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
