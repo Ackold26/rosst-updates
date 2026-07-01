@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.0-setup.exe",
-  "checksum": "sha256:bf12ff8aa795805270abc1adc1c728ab6180c89f383a07cef25753e902a1a4c8",
-  "release_notes": "v0.10.0: doc-batch Режим A – сборка комплектов документов из таблицы; два кабинета; ПДн-контур.",
+  "version": "0.10.1",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.1-setup.exe",
+  "checksum": "sha256:29e677633051ba1722b82589c3747b9f69e467fa8a488425dfd9df421f748ecb",
+  "release_notes": "v0.10.1: исправление ошибки открытия кабинетов (VT-001) – кабинеты «Работа с медиапланами» и «Работа с комплектами документов» снова открываются.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
