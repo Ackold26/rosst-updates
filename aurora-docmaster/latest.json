@@ -1,8 +1,8 @@
 {
-  "version": "0.10.4",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.4-setup.exe",
-  "checksum": "sha256:5b278ba041531f291d7ee5bcd565921a4443f50ccb2774fb8ac438cdc5bf1217",
-  "release_notes": "v0.10.4: исправлено зависание на экране проверки лицензии – кабинеты загружаются из встроенного пакета даже без связи с сервером; устранён бесконечный экран загрузки при пустом списке кабинетов.",
+  "version": "0.10.5",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.5-setup.exe",
+  "checksum": "sha256:8fff4a20c104846667392bce623bd00af5ee4480ca93fbe37688191ca9be2d42",
+  "release_notes": "v0.10.5: исправлено зависание на экране проверки лицензии – кабинеты загружаются из встроенного пакета даже без связи с сервером; устранён бесконечный экран загрузки при пустом списке кабинетов.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
