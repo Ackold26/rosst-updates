@@ -1,8 +1,8 @@
 {
-    "version": "1.3.0",
-    "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.0-analytics-hub/Aurora.AI.Smart.Analytica_1.3.0_x64-setup.exe",
-    "checksum": "sha256:8629bc742303271cd3206c9c6c2095d5b3970032fea104685434e9d6d0620a59",
-    "release_notes": "v1.3.0: аудит коммерческой готовности — честность репортинга, надёжность, офлайн-лицензия 7 дней",
+    "version": "1.3.1",
+    "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.1-analytics-hub/Aurora.AI.Smart.Analytica_1.3.1_x64-setup.exe",
+    "checksum": "sha256:8a0c09ac74f03b19bcf88de4de7f4c6c17c122f0793fb12591834331cb81c694",
+    "release_notes": "v1.3.1: логотипы на слайдах отчётов (исправлен дефект поставки) + пиктограммы разделов",
     "mandatory": false,
     "min_version": "0.1.0"
 }
