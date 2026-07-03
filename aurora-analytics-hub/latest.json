@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "download_url":  "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.0-analytics-hub/Aurora.AI.Smart.Analytica_1.2.0_x64-setup.exe",
-    "checksum":  "sha256:9af1bfec47766fb9ded8043a933146101b6797c4de1b84547e046db98caac5fd",
-    "release_notes":  "v1.2.0: анализ роликов (распознавание озвучки) + BrandPulse + продажи по регионам + обновлённый интерфейс и канон кабинетов",
+    "version":  "1.2.1",
+    "download_url":  "https://github.com/Ackold26/aurora-releases/releases/download/v1.2.1-analytics-hub/Aurora.AI.Smart.Analytica_1.2.1_x64-setup.exe",
+    "checksum":  "sha256:e774e531092b99b904ef4f0c33a513e5e13e72a968df582270266d4970550190",
+    "release_notes":  "v1.2.1: фикс таймаута фазы распознавания звука в анализе роликов",
     "mandatory":  false,
-    "min_version":  "0.3.2"
+    "min_version":  "0.1.0"
 }
