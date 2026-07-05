@@ -1,8 +1,8 @@
 {
-    "version": "1.3.1",
-    "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.1-analytics-hub/Aurora.AI.Smart.Analytica_1.3.1_x64-setup.exe",
-    "checksum": "sha256:8a0c09ac74f03b19bcf88de4de7f4c6c17c122f0793fb12591834331cb81c694",
-    "release_notes": "v1.3.1: логотипы на слайдах отчётов (исправлен дефект поставки) + пиктограммы разделов",
+    "version": "1.3.2",
+    "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.2-analytics-hub/Aurora.AI.Smart.Analytica_1.3.2_x64-setup.exe",
+    "checksum": "sha256:479916d2ba1d91bee6ed1dad6493be3d437fc93f27586b09d5476a564f5efffd",
+    "release_notes": "v1.3.2: фирменное оформление отчётов (смена цветов и шрифтов в PowerPoint), нативные легенды графиков, умное распознавание брендов между базами, работа с линейками суб-брендов, стабильность.",
     "mandatory": false,
     "min_version": "0.1.0"
 }
