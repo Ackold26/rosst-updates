@@ -1,1 +1,9 @@
-{"version":"0.6.0","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-creative-hub/Aurora%20AI%20Creative%20Hub_0.6.0_x64-setup.exe","checksum":"sha256:d67592a9de5a80973298590a3309bccfa6c117f5ff1718d4a34b0489aabe265e","release_notes":"v0.6.0: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.5.0"}
+{
+  "checksum": "sha256:483ba7b698788eef752e3b816eb5651eb7d424e354466d8789d79867c30ab548",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.0-creative-center/Aurora.AI.Creative.Center_0.9.0_x64-setup.exe",
+  "mandatory": false,
+  "min_version": "0.7.0",
+  "release_notes": "v0.9.0 — Creative Center: канонический состав 6 кабинетов, переименование Creative Hub → Creative Center, content-pack v2, изоляция кабинетного CLI (--safe-mode)",
+  "signature": "bCXaD+ElLgKxdlG+wmbIbg9sb3XKZxfgktrrg9H3LjhxZjvJii8LvjlTic1b/Z5JkvblQEK7ajnyJG3YqGGFBg==",
+  "version": "0.9.0"
+}
