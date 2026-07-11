@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:483ba7b698788eef752e3b816eb5651eb7d424e354466d8789d79867c30ab548",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.0-creative-center/Aurora.AI.Creative.Center_0.9.0_x64-setup.exe",
+  "checksum": "sha256:05a3cda2da782307d10c17dd4e694d1a40c05539b167f0330f6db06cb0885430",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.1-creative-center/Aurora.AI.Creative.Center_0.9.1_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.7.0",
-  "release_notes": "v0.9.0 — Creative Center: канонический состав 6 кабинетов, переименование Creative Hub → Creative Center, content-pack v2, изоляция кабинетного CLI (--safe-mode)",
-  "signature": "bCXaD+ElLgKxdlG+wmbIbg9sb3XKZxfgktrrg9H3LjhxZjvJii8LvjlTic1b/Z5JkvblQEK7ajnyJG3YqGGFBg==",
-  "version": "0.9.0"
+  "release_notes": "v0.9.1 — дисциплина тематики кабинетов (scope-промпты), UX-полировка (порядок карточек, объединённый раздел, индивидуальные иконки), актуализированная справка с брендингом",
+  "signature": "+GJi1ryBHDrH7A9mkD6q3VyXZQD0jampdtZJnnrT5gZ/YSdZ/nF7mzYnbaJMTIxqNsOEvfQ08bD4nULlYGNBCw==",
+  "version": "0.9.1"
 }
