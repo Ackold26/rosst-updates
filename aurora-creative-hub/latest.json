@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:05a3cda2da782307d10c17dd4e694d1a40c05539b167f0330f6db06cb0885430",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.1-creative-center/Aurora.AI.Creative.Center_0.9.1_x64-setup.exe",
+  "checksum": "sha256:73757ac812efaab587ec35bd5e86f36f45f119673b0d3e132460704d83d2bcee",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.2-creative-center/Aurora.AI.Creative.Center_0.9.2_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.7.0",
-  "release_notes": "v0.9.1 — дисциплина тематики кабинетов (scope-промпты), UX-полировка (порядок карточек, объединённый раздел, индивидуальные иконки), актуализированная справка с брендингом",
-  "signature": "+GJi1ryBHDrH7A9mkD6q3VyXZQD0jampdtZJnnrT5gZ/YSdZ/nF7mzYnbaJMTIxqNsOEvfQ08bD4nULlYGNBCw==",
-  "version": "0.9.1"
+  "release_notes": "v0.9.2 — надёжная доставка обновлений: докачивание установщика с автоповтором, автообновление промптов при смене версии контента, подтверждение успешной установки, фирменное лого в диалоге обновления, скорректирована компоновка главного экрана",
+  "signature": "fR+omtLLwtbLf4wS2Okgyx0VHPQPAOH1QG0fZapmlOQlsbR12ApfiFTfrrNrRjaxGD7mC89SHNUQoj5O52PEAA==",
+  "version": "0.9.2"
 }
