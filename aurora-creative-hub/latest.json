@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:73757ac812efaab587ec35bd5e86f36f45f119673b0d3e132460704d83d2bcee",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.2-creative-center/Aurora.AI.Creative.Center_0.9.2_x64-setup.exe",
+  "checksum": "sha256:ccebb1b949416eb54756b9ca32bb6f55ef646fe37fa9fbc2d846fca6b12b1f87",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.3-creative-center/Aurora.AI.Creative.Center_0.9.3_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.7.0",
-  "release_notes": "v0.9.2 — надёжная доставка обновлений: докачивание установщика с автоповтором, автообновление промптов при смене версии контента, подтверждение успешной установки, фирменное лого в диалоге обновления, скорректирована компоновка главного экрана",
-  "signature": "fR+omtLLwtbLf4wS2Okgyx0VHPQPAOH1QG0fZapmlOQlsbR12ApfiFTfrrNrRjaxGD7mC89SHNUQoj5O52PEAA==",
-  "version": "0.9.2"
+  "release_notes": "v0.9.3 — исправления по внешнему аудиту доставки обновлений: устойчивость докачивания, однократное окно подтверждения установки, корректная фиксация версии контента при частичном обновлении, изоляция между продуктами во временной папке",
+  "signature": "MrFpHnHDez5M+g70S50pwlESop8/WNvxbjGOVy9Pq/JvCTMFTIzkTukED+ivWgcWVnhk8jt+5DapGzBuPzvrCA==",
+  "version": "0.9.3"
 }
