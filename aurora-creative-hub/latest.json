@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:ccebb1b949416eb54756b9ca32bb6f55ef646fe37fa9fbc2d846fca6b12b1f87",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.3-creative-center/Aurora.AI.Creative.Center_0.9.3_x64-setup.exe",
+  "checksum": "sha256:7345eefa8a9e3b0fad51d86642c8f578ccd32991054edbf2cb9712c81760ad9a",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.4-creative-center/Aurora.AI.Creative.Center_0.9.4_x64-setup.exe",
   "mandatory": false,
-  "min_version": "0.7.0",
-  "release_notes": "v0.9.3 — исправления по внешнему аудиту доставки обновлений: устойчивость докачивания, однократное окно подтверждения установки, корректная фиксация версии контента при частичном обновлении, изоляция между продуктами во временной папке",
-  "signature": "MrFpHnHDez5M+g70S50pwlESop8/WNvxbjGOVy9Pq/JvCTMFTIzkTukED+ivWgcWVnhk8jt+5DapGzBuPzvrCA==",
-  "version": "0.9.3"
+  "min_version": "0.3.2",
+  "release_notes": "v0.9.4 – готовые шаблоны рабочих процессов в конструкторе кампаний; систематизация кабинетов: защита ввода, раздел конфиденциальности, единый шаблон брифа, лимиты форматов; обновлённая справка; уточнения юридического кабинета; повышение безопасности",
+  "signature": "VEWjSYhtKV5pwkhqtkZ/bXH91Z5rJ54o955KU+pgCd2ZmmjRyI6N4Tw/jpNAeODIRZg6lrdZoyEHd8hPDf77Cw==",
+  "version": "0.9.4"
 }
