@@ -1,8 +1,8 @@
 {
-  "version": "0.8.9",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.8.9-setup.exe",
-  "checksum": "sha256:2e487f165ac3b89afd919de3b1e821a4a1a4dcbf3124da8b805dbc22e96b1b3e",
-  "release_notes": "v0.8.9: сверка договора с корпоративным стандартом (/contract-vs-standard), обновлены режимы обработки данных, улучшен свободный вопрос по документу, фикс кодировки в локальном выводе.",
+  "version": "0.8.10",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.8.10-setup.exe",
+  "checksum": "sha256:e56837fd208c49a55eabd6e690ff16bfb0702617f6b820b4c016b4627f7f1698",
+  "release_notes": "v0.8.10: обновление безопасности – усилена проверка подлинности пакета при автообновлении приложения. Рекомендуется к установке.",
   "mandatory": false,
   "min_version": "0.3.2"
 }
