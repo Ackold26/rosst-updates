@@ -1,8 +1,8 @@
 {
-  "version": "1.3.4",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.4-analytics-hub/Aurora.AI.Smart.Analytica_1.3.4_x64-setup.exe",
-  "checksum": "sha256:d9a3c0569b3f4f1ecbc48343281c2a15b4d6565c1229cf6989afbb21687486a3",
-  "release_notes": "v1.3.4: фиксы безопасности - парсер комментариев + защита от инъекций в данных презентации",
+  "version": "1.3.5",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.5-analytics-hub/Aurora.AI.Smart.Analytica_1.3.5_x64-setup.exe",
+  "checksum": "sha256:4c3c9b52a29a17380eb917ac9752bf5627ce3a0244b56cd8ff6282a9680c2832",
+  "release_notes": "v1.3.5: обновление безопасности – усилена проверка подлинности пакета при автообновлении приложения. Рекомендуется к установке.",
   "mandatory": false,
   "min_version": "0.8.5"
 }
