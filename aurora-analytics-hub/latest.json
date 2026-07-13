@@ -1,8 +1,8 @@
 {
-    "version": "1.3.3",
-    "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.3-analytics-hub/Aurora.AI.Smart.Analytica_1.3.3_x64-setup.exe",
-    "checksum": "sha256:24d0adebf549471205265da0adea786e1b1cf74105a89c2e789da02590c08a71",
-    "release_notes": "v1.3.3: доработки отчёта — Digital Budget (объединение источников инвестиций), единый словарь названий брендов, отчёт на уровне бренда, YTD-период (последний актуальный год), слайд продаж стеком по брендам с нативной легендой одна-на-группу, новые слайды (изменение долей, помесячные инвестиции по медиа), фирменное оформление текстовых слайдов.",
-    "mandatory": false,
-    "min_version": "0.1.0"
+  "version": "1.3.4",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.4-analytics-hub/Aurora.AI.Smart.Analytica_1.3.4_x64-setup.exe",
+  "checksum": "sha256:d9a3c0569b3f4f1ecbc48343281c2a15b4d6565c1229cf6989afbb21687486a3",
+  "release_notes": "v1.3.4: фиксы безопасности - парсер комментариев + защита от инъекций в данных презентации",
+  "mandatory": false,
+  "min_version": "0.8.5"
 }
