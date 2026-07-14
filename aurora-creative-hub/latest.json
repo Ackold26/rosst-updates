@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:7345eefa8a9e3b0fad51d86642c8f578ccd32991054edbf2cb9712c81760ad9a",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.4-creative-center/Aurora.AI.Creative.Center_0.9.4_x64-setup.exe",
+  "checksum": "sha256:c6b93a58d112a99dd3dae0ae8e79fb0823c8b8ecb77752deff183c9424271457",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.5-creative-center/Aurora.AI.Creative.Center_0.9.5_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.9.4 – готовые шаблоны рабочих процессов в конструкторе кампаний; систематизация кабинетов: защита ввода, раздел конфиденциальности, единый шаблон брифа, лимиты форматов; обновлённая справка; уточнения юридического кабинета; повышение безопасности",
-  "signature": "VEWjSYhtKV5pwkhqtkZ/bXH91Z5rJ54o955KU+pgCd2ZmmjRyI6N4Tw/jpNAeODIRZg6lrdZoyEHd8hPDf77Cw==",
-  "version": "0.9.4"
+  "release_notes": "v0.9.5 – рабочие процессы на виду: при выбранном бренде на главной появляется вход в конструктор пайплайнов; 7 готовых шаблонов под типовые задачи (кампания под ключ, полный цикл, экспресс-контент, бренд-платформа, фирменный стиль, ребрендинг, конкурентный креатив-аудит)",
+  "signature": "N/aAmkB4buh0NvmDf01h6KrXXLdLCeQwrZMjh8Oc38Bnzc8qU2BW0dAhf1j2ZvCgWKTVTWPTd466DgK1zbSuCA==",
+  "version": "0.9.5"
 }
