@@ -1,8 +1,8 @@
 {
-  "version": "0.3.5",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.3.5-oracle/Aurora.AI.Synthetic.Research_0.3.5_x64-setup.exe",
-  "checksum": "sha256:0031425c3a80369b1e2aece4f0fef72dbd4fe5ac2fc3f977ca36a139e2bc36dc",
-  "release_notes": "v0.3.5 — убрано окно ошибки python.exe (0xc0000142) при открытии кабинета (CREATE_NO_WINDOW на проверке зависимостей).",
+  "version": "0.4.1",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.4.1-oracle/Aurora.AI.Synthetic.Research_0.4.1_x64-setup.exe",
+  "checksum": "sha256:3f62aaccd3506e6c285ff64e776aa0b8b5dc6f97bb9000d4f1c2540e30268943",
+  "release_notes": "v0.4.1: надёжная доставка обновлений – докачка после обрыва связи и подтверждение установки; обновлённые методики кабинетов; устранены устаревшие подсказки команд.",
   "mandatory": false,
   "min_version": "0.1.0"
 }
