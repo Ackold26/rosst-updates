@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:c6b1115474f61d10adf585aade286896826f43e66f71d78106202cc83d725886",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.6-creative-center/Aurora.AI.Creative.Center_0.9.6_x64-setup.exe",
+  "checksum": "sha256:2ec54f599437a12b4925d7fa9437bbb2d087e8ec517730d4b868f71aa4d9f264",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.7-creative-center/Aurora.AI.Creative.Center_0.9.7_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.9.6: Workflow редизайн + выбор команды, объём тёмных карточек, юр-глубина Юрист-Реклама + /qa-ip, актуализация справки",
-  "signature": "8T3zC+E/yj+blRcfDeTETYL1O0LHG6U+D2FGWSL257C8/WUdFE7KuTsgOPKdgtXII2IRr2fWKmR35vFBroeXDg==",
-  "version": "0.9.6"
+  "release_notes": "v0.9.7: PDF-справка одним файлом, обновлённая справочная система, запуск развёрнутым, улучшения установки и автообновления",
+  "signature": "hWQzvmJZPjgSOIgAqyFaOmdfAgNcDjULanjZHmstC+pqPlXdhLmC16pTV9lSMVlAmWCw+7yy3pbGssdc6JTfDQ==",
+  "version": "0.9.7"
 }
