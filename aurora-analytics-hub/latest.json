@@ -1,8 +1,8 @@
 {
-  "version": "1.3.6",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.6-analytics-hub/Aurora.AI.Smart.Analytica_1.3.6_x64-setup.exe",
-  "checksum": "sha256:e5386878a0b0fc669a3552eabb97a660b88c18dee8498202a1d0f0f722639b04",
-  "release_notes": "v1.3.6: копирайтерский язык выводов и рекомендаций в отчёте из данных, согласованность динамики рекламных инвестиций, соц-дем портрет целевой аудитории, обновлённая справка. Включает обновление безопасности 1.3.5.",
+  "version": "1.3.7",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.7-analytics-hub/Aurora.AI.Smart.Analytica_1.3.7_x64-setup.exe",
+  "checksum": "sha256:35f52bc6417a3abbe77955e44f1f16e02e0ead4752e9220d592dfc3dfe87ebb4",
+  "release_notes": "v1.3.7: связки между блоками отчёта (продажи - инвестиции - здоровье бренда); защита отчёта от посторонних данных в выгрузках с честным примечанием; предупреждения о качестве данных (выбросы, пропуски периодов); полный учёт рекламных инвестиций, включая спонсорские форматы; поддержка по-брендовых файлов поисковой статистики.",
   "mandatory": false,
   "min_version": "0.8.5"
 }
