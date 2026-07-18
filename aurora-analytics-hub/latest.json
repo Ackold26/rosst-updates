@@ -1,8 +1,9 @@
 {
-    "version":  "1.3.8",
-    "checksum":  "sha256:d8382bb7c581bb09c3f6c98cb4e68be361e300c12f2afe8ced102353222c8dcf",
-    "release_notes":  "v1.3.8: развёрнутое окно и тихие консоли, новый дизайн главного экрана, актуализированная справка с PDF-версией, точнее выбор листа рекламной выгрузки, честная проверка качества данных без ложных тревог",
-    "mandatory":  false,
-    "download_url":  "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.8-analytics-hub/Aurora.AI.Smart.Analytica_1.3.8_x64-setup.exe",
-    "min_version":  "0.3.2"
+  "checksum": "sha256:43b03e4086a55b518621457d884504666bfee324bd53124a28f298115d988ade",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.9-analytics-hub/Aurora.AI.Smart.Analytica_1.3.9_x64-setup.exe",
+  "mandatory": false,
+  "min_version": "0.3.2",
+  "release_notes": "v1.3.9: изоляция кабинетного ассистента, надёжность обновлений (честная отмена установки и авто-перезапуск), защита канала обновлений подписью, актуализация справки",
+  "signature": "SqXQQcJwhVzlwXjy78dAb2jFgebRV/GbxRr1Yv6cKMTI9xfq4U186E4ohg0RWYHbdctgIB4EUe97Hev/xLj8Cw==",
+  "version": "1.3.9"
 }
