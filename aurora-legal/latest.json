@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.9.0-setup.exe",
-  "checksum": "sha256:56bc96742ae810545445f554378afd42ac66f8b390c51055a2ce27df83e85d0c",
-  "release_notes": "v0.9.0: обновлённая справочная система, улучшения безопасности и стабильности, экспорт отчётов в Word без внешних зависимостей.",
+  "version": "0.9.1",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.9.1-setup.exe",
+  "checksum": "sha256:a8b080f4d79cb922c50975cefa07591ca366ffbe929d75f419840a3cef64373c",
+  "release_notes": "v0.9.1: усиление изоляции и безопасности кабинетов, исправления механизма обновления, PDF-справка.",
   "mandatory": false,
   "min_version": "0.3.2"
 }
