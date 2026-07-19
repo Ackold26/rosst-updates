@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:2ec54f599437a12b4925d7fa9437bbb2d087e8ec517730d4b868f71aa4d9f264",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.7-creative-center/Aurora.AI.Creative.Center_0.9.7_x64-setup.exe",
+  "checksum": "sha256:f57dd55151f53bb633786dcbf669d4910d0b115b3a95991b754098e33ce77149",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.8-creative-center/Aurora.AI.Creative.Center_0.9.8_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.9.7: PDF-справка одним файлом, обновлённая справочная система, запуск развёрнутым, улучшения установки и автообновления",
-  "signature": "hWQzvmJZPjgSOIgAqyFaOmdfAgNcDjULanjZHmstC+pqPlXdhLmC16pTV9lSMVlAmWCw+7yy3pbGssdc6JTfDQ==",
-  "version": "0.9.7"
+  "release_notes": "v0.9.8: изоляция кабинетного Claude CLI (CPD-15) + нормализация тире",
+  "signature": "S0pEPXeLVmEOxcLaIJQ1kx1/+Yr6Q1/YYIlxFideSg0ECN+u5+6oNSjzxWJGcnAN6944ashhL2VlSppUCw4PDw==",
+  "version": "0.9.8"
 }
