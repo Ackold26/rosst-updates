@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:ef7da4dbf111bb1339f6b9b63045d4fb2a7333d81c4b3f6df29fe2e03be6fae6",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.10-analytics-hub/Aurora.AI.Smart.Analytica_1.3.10_x64-setup.exe",
+  "checksum": "sha256:0a50c03b258bbbe5679ac9950b1d10cd20036c43b436d5a0f99affaeeb28d14c",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.11-analytics-hub/Aurora.AI.Smart.Analytica_1.3.11_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.8.5",
-  "release_notes": "v1.3.10: улучшена изоляция и безопасность обработки документов в кабинетах",
-  "signature": "wQH/fsXXOhHv90fO/0BUgl1vQZBAhKH9nS0NrpD7FtKDEHl+RD4SwO+9j7tJ2/2wS60jf+I9ioLlUgCJfqrQBA==",
-  "version": "1.3.10"
+  "release_notes": "v1.3.11: исправление потери части отчётов при экспорте (CPD-17)",
+  "signature": "Gic6DWAQRCeLrKaimF13nASMDb7VdFVN/onqETQmZhe9Pb7ItAWfoOfO0pZ+i04LZQMUbulO3+kpUVNCdPotAg==",
+  "version": "1.3.11"
 }
