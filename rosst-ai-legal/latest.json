@@ -1,8 +1,8 @@
 {
-  "version": "0.8.9",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.8.9-setup.exe",
-  "checksum": "sha256:2e487f165ac3b89afd919de3b1e821a4a1a4dcbf3124da8b805dbc22e96b1b3e",
-  "release_notes": "v0.8.9: сверка договора с корпоративным стандартом (/contract-vs-standard), обновлены режимы обработки данных, улучшен свободный вопрос по документу, фикс кодировки в локальном выводе.",
-  "mandatory": false,
-  "min_version": "0.3.2"
+    "version":  "0.12.0",
+    "download_url":  "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/Aurora.AI.Legal.Center_0.12.0_x64-setup.exe",
+    "checksum":  "sha256:d3a7036476e813a04b3c267942c960aae439b3e9f4fe2a190442b80e557f5ab1",
+    "release_notes":  "v0.12.0: примеры идеальных запросов в справке, финализация оферты v1, команда /qa-visual (визуальный анализ рекламных макетов), 48 форм /шаблон во всех кабинетах, устранение мелькания чёрных окон",
+    "mandatory":  false,
+    "min_version":  "0.3.2"
 }
