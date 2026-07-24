@@ -1,8 +1,8 @@
 {
-  "version": "0.11.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/0.11.0-setup.exe",
-  "checksum": "sha256:11aad441ececb30021f62cf94deeaf7374ea1c8940760f26c981c24db7fc3a01",
-  "release_notes": "v0.11.0. Новый раздел «Шаблоны»: готовые проверенные формы договоров с заполнением под вашу ситуацию. Итоговые документы Word приведены к деловому стандарту оформления (ГОСТ Р 7.0.97-2016) – типографика, поля, нумерация пунктов, шапка договора.",
-  "mandatory": false,
-  "min_version": "0.3.2"
+    "version":  "0.12.0",
+    "download_url":  "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/Aurora.AI.Legal.Center_0.12.0_x64-setup.exe",
+    "checksum":  "sha256:d3a7036476e813a04b3c267942c960aae439b3e9f4fe2a190442b80e557f5ab1",
+    "release_notes":  "v0.12.0: примеры идеальных запросов в справке, финализация оферты v1, команда /qa-visual (визуальный анализ рекламных макетов), 48 форм /шаблон во всех кабинетах, устранение мелькания чёрных окон",
+    "mandatory":  false,
+    "min_version":  "0.3.2"
 }
