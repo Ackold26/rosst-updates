@@ -1,1 +1,8 @@
-{"version":"0.7.5","download_url":"https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-agency/Aurora%20AI%20Agency_0.7.5_x64-setup.exe","checksum":"sha256:07b1dfa74a07b0b526419da27ac423c8c12d1fa796e1735d7dbc2894af90f53c","release_notes":"v0.7.5: stdin pipe, UTF-8 fix, diagnostics, clean start","mandatory":false,"min_version":"0.7.0"}
+{
+  "version": "0.8.5",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-agency/Aurora%20AI%20Agency_0.8.5_x64-setup.exe",
+  "checksum": "sha256:07b1dfa74a07b0b526419da27ac423c8c12d1fa796e1735d7dbc2894af90f53c",
+  "release_notes": "v0.8.5: UTF-8 fix, diagnostics, clean start",
+  "mandatory": false,
+  "min_version": "0.7.0"
+}

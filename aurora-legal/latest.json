@@ -1,8 +1,8 @@
 {
-  "version": "0.12.1",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/legal/Aurora.AI.Legal.Center_0.12.1_x64-setup.exe",
-  "checksum": "sha256:1998f44aed343adf13e49c19277392a1d14fce92b30b7b3c69aa3fa467e77292",
-  "release_notes": "v0.12.1: уточнены реквизиты норм в формах документов и в реестре санкций кабинета Реклама; проверка маркировки отдельно отмечает пограничные случаи; расширена серверная нормативная база",
+  "version": "0.12.2",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora.AI.Legal.Center_0.12.2_x64-setup.exe",
+  "checksum": "sha256:612550191a1e6763e216403d7982d12ecd9f154dfb665aa78a459587ba210939",
+  "release_notes": "v0.12.2: окно консоли больше не появляется при установке обновления; справка обновлена; налоговый кабинет не достраивает отсутствующие формулы расчёта.",
   "mandatory": false,
   "min_version": "0.1.0"
 }
