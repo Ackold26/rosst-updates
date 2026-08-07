@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.10.0-setup.exe",
-  "checksum": "sha256:bf12ff8aa795805270abc1adc1c728ab6180c89f383a07cef25753e902a1a4c8",
-  "release_notes": "v0.10.0: doc-batch Режим A – сборка комплектов документов из таблицы; два кабинета; ПДн-контур.",
+  "version": "0.11.1",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.11.1-setup.exe",
+  "checksum": "sha256:1d4fb1c715c3f74aada443218a8b582d7a2bd4370a990cfe53decbad7074c54c",
+  "release_notes": "v0.11.1: обновления содержимого доезжают при запуске программы, а не только со страницы настроек — новый кабинет появляется сам. Документ с невосполненными полями (реквизиты сторон, сумма прописью) больше не сохраняется молча: кампания попадает в перечень пропущенных, остальные документы собираются как прежде. Сводный медиаплан описывает ровно выпущенные документы.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
