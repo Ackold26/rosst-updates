@@ -1,8 +1,8 @@
 {
-  "version": "0.12.2",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora.AI.Legal.Center_0.12.2_x64-setup.exe",
-  "checksum": "sha256:612550191a1e6763e216403d7982d12ecd9f154dfb665aa78a459587ba210939",
-  "release_notes": "v0.12.2: окно консоли больше не появляется при установке обновления; справка обновлена; налоговый кабинет не достраивает отсутствующие формулы расчёта.",
+  "version": "0.13.2",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/aurora-legal/Aurora.AI.Legal.Center_0.13.2_x64-setup.exe",
+  "checksum": "sha256:b6de93824fc7382981c6d8bc80c2a77e9c127bf1711dd978f0e6bf25a5275c77",
+  "release_notes": "v0.13.2: восстановлена работа через облачный доступ; кнопка «Остановить» теперь действительно прекращает работу, а не только гасит индикатор; режим «ваш Claude Code» определяется верно — материалы больше не уходят на наш сервер вопреки выбору; усилена проверка сохранённого входа.",
   "mandatory": false,
-  "min_version": "0.1.0"
+  "min_version": "0.3.2"
 }
