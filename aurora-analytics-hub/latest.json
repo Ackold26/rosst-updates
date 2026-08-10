@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:0a50c03b258bbbe5679ac9950b1d10cd20036c43b436d5a0f99affaeeb28d14c",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.11-analytics-hub/Aurora.AI.Smart.Analytica_1.3.11_x64-setup.exe",
+  "checksum": "sha256:41d9da95160dc049320fb8381c0b20b57df5051f7badc8c280a594af8da2d260",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.12-analytics-hub/Aurora.AI.Smart.Analytica_1.3.12_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.8.5",
-  "release_notes": "v1.3.11: исправление потери части отчётов при экспорте (CPD-17)",
-  "signature": "Gic6DWAQRCeLrKaimF13nASMDb7VdFVN/onqETQmZhe9Pb7ItAWfoOfO0pZ+i04LZQMUbulO3+kpUVNCdPotAg==",
-  "version": "1.3.11"
+  "release_notes": "v1.3.12: облачный режим работы кабинетов, честная отмена задания, устойчивая загрузка материалов и свод карточек брендов по ведущему бренду",
+  "signature": "a3vLsYfFE9HALHROvcdFzPBHL/m+Rt1HIHIWDaohegvC07gMMSNBxVOsgzoL7qQeVHsdybnoO6FguLtlKt6xAQ==",
+  "version": "1.3.12"
 }
