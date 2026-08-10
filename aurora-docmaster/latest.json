@@ -1,8 +1,8 @@
 {
-  "version": "0.11.2",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.11.2-setup.exe",
-  "checksum": "sha256:6298a9cd489b305fa0ad8374a1f469a074fc6e81692cf6044d659a78a59082d1",
-  "release_notes": "v0.11.2: окно открывается развёрнутым на весь экран; в кабинете «Заказы и допсоглашения» исправлен цвет текста полей и выпадающих списков — в тёмной теме они читались с трудом; справка кабинета дополнена: обязательные столбцы медиаплана, состав справочника клиента, разбор сообщений кабинета и уточнённый порядок работы.",
+  "version": "0.12.0",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.12.0-setup.exe",
+  "checksum": "sha256:a25db2092a9c203f824c2b1a52e584b69f168772c40118ee3443b05b0fc53d10",
+  "release_notes": "v0.12.0: кабинет «Заказы и допсоглашения» — сводный медиаплан, заказы к договорам и допсоглашения по факту. Кабинет работает через облачный контур: установленный Claude Code на компьютере не требуется. Исправлен двойной вход на сервер при запуске.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
