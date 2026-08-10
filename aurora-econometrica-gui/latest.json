@@ -1,8 +1,8 @@
 {
-  "version": "2.4.4",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.4.4/Optimizer_MMM_2.4.4_x64-setup.exe",
-  "checksum": "sha256:32a2ae6916a7a9a55cf262d4f2852d4f358bdb4013da1ef434ce44e3911dabc2",
-  "release_notes": "v2.4.4: продукт больше не стирает ранее выданные файлы; занятый файл не отменяет ответ; сообщение об обрыве связи не сохраняется как отчёт; ответ сервера авторизации проверяется подписью при получении и при чтении сохранённой копии.",
+  "version": "2.4.5",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.4.5/Optimizer_MMM_2.4.5_x64-setup.exe",
+  "checksum": "sha256:1dfca6f8701f899b99c759d5e251085ff505d3f580600efd573a43c597a6eec6",
+  "release_notes": "v2.4.5: отчёт больше не выдаёт непроверенную модель за надёжную — оговорка о неподтверждённой надёжности появляется во всех четырёх выходах; устранено противоречие «оговорка сверху, твёрдая директива рядом»; облачная и локальная редакции больше не делят файл состояния расчётного движка.",
   "mandatory": false,
   "min_version": "0.3.2"
 }
