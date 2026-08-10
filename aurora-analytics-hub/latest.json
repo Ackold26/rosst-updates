@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:41d9da95160dc049320fb8381c0b20b57df5051f7badc8c280a594af8da2d260",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.12-analytics-hub/Aurora.AI.Smart.Analytica_1.3.12_x64-setup.exe",
+  "checksum": "sha256:6105423e4119c1a4c89e87ed1e8cc2c17f75188e320433b8c1c56e2adf0a3ed3",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.13-analytics-hub/Aurora.AI.Smart.Analytica_1.3.13_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.8.5",
-  "release_notes": "v1.3.12: облачный режим работы кабинетов, честная отмена задания, устойчивая загрузка материалов и свод карточек брендов по ведущему бренду",
-  "signature": "a3vLsYfFE9HALHROvcdFzPBHL/m+Rt1HIHIWDaohegvC07gMMSNBxVOsgzoL7qQeVHsdybnoO6FguLtlKt6xAQ==",
-  "version": "1.3.12"
+  "release_notes": "v1.3.13: надёжная проверка обновлений, устойчивая выгрузка кампаний в архив, поставка легче на 36 МБ",
+  "signature": "BpdyTri3aX4LYeWG08zLzOhQFWLjazMZOW5P2b7tgUfeSRu/frLJSZ7rHTQPcMyIUck94PV2GeXw3VF1MIa1DQ==",
+  "version": "1.3.13"
 }
