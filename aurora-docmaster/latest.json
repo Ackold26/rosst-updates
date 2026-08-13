@@ -1,8 +1,8 @@
 {
-  "version": "0.12.0",
-  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.12.0-setup.exe",
-  "checksum": "sha256:a25db2092a9c203f824c2b1a52e584b69f168772c40118ee3443b05b0fc53d10",
-  "release_notes": "v0.12.0: кабинет «Заказы и допсоглашения» — сводный медиаплан, заказы к договорам и допсоглашения по факту. Кабинет работает через облачный контур: установленный Claude Code на компьютере не требуется. Исправлен двойной вход на сервер при запуске.",
+  "version": "0.12.1",
+  "download_url": "https://quzhkfvglqmppxcrindh.supabase.co/storage/v1/object/public/updates/docmaster/0.12.1-setup.exe",
+  "checksum": "sha256:348e30b00c841a893cbbc9620ff2beb49bb4aa79a4f47d4abe94b68682d7be12",
+  "release_notes": "v0.12.1: готовые документы больше не пропадают — папка выдачи не очищается при запуске и не перезаписывается повторной сборкой. Установка и обновление без прав администратора там, где программа стоит в профиле пользователя; отказ от запроса прав теперь объясняется. Запуск защищён от молчаливого зависания.",
   "mandatory": false,
   "min_version": "0.7.0"
 }
