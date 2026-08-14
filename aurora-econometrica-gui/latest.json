@@ -1,8 +1,8 @@
 {
-  "version": "2.4.8",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.4.8/Optimizer_MMM_2.4.8_x64-setup.exe",
-  "checksum": "sha256:3bfb951f777148d69319ae984350fd5df48c6d2e3ea7d2bdfb0092ce057b5b4f",
-  "release_notes": "v2.4.8: программа больше не стирает готовые документы клиента (exports) при запуске — очистка теперь только временных входящих (inbox); повторный экспорт отчёта больше не перезаписывает молча существующий файл — занятое имя получает счётчик рядом; снижены ложные срабатывания антивируса.",
+  "version": "2.4.9",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v2.4.9/Optimizer_MMM_2.4.9_x64-setup.exe",
+  "checksum": "sha256:50d7bcb550aabca980b3e247f169168bd6eec1aebe0c45d9dfb2f42b2f04fa34",
+  "release_notes": "v2.4.9: программа больше не закрывает посторонние вычислительные процессы; результаты шага сценария не теряются молча; восстанавливаются права доступа к рабочей папке",
   "mandatory": false,
-  "min_version": "0.3.2"
+  "min_version": "1.0.0"
 }
