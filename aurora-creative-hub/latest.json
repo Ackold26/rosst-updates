@@ -1,9 +1,8 @@
 {
-  "checksum": "sha256:8213b6389d06d75e3249c36ed618d44d910f3a6f102324c68022e7c123a5e078",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.9.9-creative-center/Aurora.AI.Creative.Center_0.9.9_x64-setup.exe",
+  "checksum": "sha256:4b4c2de411c1d0af61b57a46835f643cdf7ba705c51565ba58f89958a8c28389",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.6-creative-center/Aurora.AI.Creative.Center_0.10.6_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.9.9: исправление потери части отчётов при экспорте (CPD-17)",
-  "signature": "+DU9RSEBNdlHsuA+4Z5FVlu9DykLftwKPRP2PmAdjIVAds31sFx/yCw0WMSAyARIbv0mYjUf+pir5R+kHfzzAw==",
-  "version": "0.9.9"
+  "release_notes": "v0.10.6: работа всегда через шлюз Авроры; удаление файлов во «Входящих» и «Результатах» в корзину, а не безвозвратно; кнопка «Отказаться» в окне условий закрывает программу; кнопка «Проверить обновления» в настройках; справка дополнена",
+  "version": "0.10.6"
 }
