@@ -1,9 +1,9 @@
 {
-  "version": "0.10.7",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.7-creative-center/Aurora.AI.Creative.Center_0.10.7_x64-setup.exe",
-  "checksum": "sha256:dbe53bcd3c2696fb61e714ae250ec2b75f5c0e3e41f5a592511e234922e93aa1",
+  "version": "0.10.8",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.8-creative-center/Aurora.AI.Creative.Center_0.10.8_x64-setup.exe",
+  "checksum": "sha256:17238e71810fa816d7bb1461cf20284c7959f8e61919bdd56d4857003f95427f",
   "min_version": "0.3.2",
   "mandatory": false,
-  "release_notes": "v0.10.7: справочник кодов ошибок приведён в соответствие с программой (описаны коды шлюза, которые человек реально видит; убраны недостижимые); доступность справки для читалок экрана починена",
-  "signature": "Jj5VJsiVmoO1sDUqPrL2oJXAxHwfdN0oR6yEHPf7dYQYe7/rtuywI8msLIMm+fsera6X1tovwKxv/7F6aSiXAw=="
+  "release_notes": "v0.10.8: окно обновления больше не запирает при необязательном обновлении; при непройденной подписи основного канала опрашивается запасной; снято лишнее разрешение на открытие файлов оболочкой.",
+  "signature": "QIeLEP0ue02+e9zZpxDlWm8bw78WXkeLkl3MOjyMW39TjbyBwXAG14NQli4CK9RWEk/F+EczynX1JARy6o6ZBA=="
 }
