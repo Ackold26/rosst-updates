@@ -1,8 +1,9 @@
 {
-  "checksum": "sha256:4b4c2de411c1d0af61b57a46835f643cdf7ba705c51565ba58f89958a8c28389",
+  "version": "0.10.6",
   "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.6-creative-center/Aurora.AI.Creative.Center_0.10.6_x64-setup.exe",
-  "mandatory": false,
+  "checksum": "sha256:4b4c2de411c1d0af61b57a46835f643cdf7ba705c51565ba58f89958a8c28389",
   "min_version": "0.3.2",
-  "release_notes": "v0.10.6: работа всегда через шлюз Авроры; удаление файлов во «Входящих» и «Результатах» в корзину, а не безвозвратно; кнопка «Отказаться» в окне условий закрывает программу; кнопка «Проверить обновления» в настройках; справка дополнена",
-  "version": "0.10.6"
+  "mandatory": true,
+  "release_notes": "v0.10.6: работа всегда через шлюз Авроры; удаление файлов во «Входящих» и «Результатах» в корзину, а не безвозвратно; кнопка «Отказаться» в окне условий закрывает программу; кнопка «Проверить обновления» в настройках; справка дополнена типовыми задачами кабинетов, работой с брендом и связкой кабинетов",
+  "signature": "ekgccsfejB9dtlG+BZzdFe6jpmOcKnsFA1R/epGowQZDQMg21e5fEBvQxYj4xBkGvCGtVTrijDzsGvkAykKdCw=="
 }
