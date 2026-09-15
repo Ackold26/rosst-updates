@@ -1,9 +1,9 @@
 {
-  "version": "0.10.6",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.6-creative-center/Aurora.AI.Creative.Center_0.10.6_x64-setup.exe",
-  "checksum": "sha256:4b4c2de411c1d0af61b57a46835f643cdf7ba705c51565ba58f89958a8c28389",
+  "version": "0.10.7",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.7-creative-center/Aurora.AI.Creative.Center_0.10.7_x64-setup.exe",
+  "checksum": "sha256:dbe53bcd3c2696fb61e714ae250ec2b75f5c0e3e41f5a592511e234922e93aa1",
   "min_version": "0.3.2",
-  "mandatory": true,
-  "release_notes": "v0.10.6: работа всегда через шлюз Авроры; удаление файлов во «Входящих» и «Результатах» в корзину, а не безвозвратно; кнопка «Отказаться» в окне условий закрывает программу; кнопка «Проверить обновления» в настройках; справка дополнена типовыми задачами кабинетов, работой с брендом и связкой кабинетов",
-  "signature": "ekgccsfejB9dtlG+BZzdFe6jpmOcKnsFA1R/epGowQZDQMg21e5fEBvQxYj4xBkGvCGtVTrijDzsGvkAykKdCw=="
+  "mandatory": false,
+  "release_notes": "v0.10.7: справочник кодов ошибок приведён в соответствие с программой (описаны коды шлюза, которые человек реально видит; убраны недостижимые); доступность справки для читалок экрана починена",
+  "signature": "Jj5VJsiVmoO1sDUqPrL2oJXAxHwfdN0oR6yEHPf7dYQYe7/rtuywI8msLIMm+fsera6X1tovwKxv/7F6aSiXAw=="
 }
