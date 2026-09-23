@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:8552f2b6747507dbf18c8411460d65e72c366c9245f6265f445831f3d505bd3b",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.24-analytics-hub/Aurora.AI.Smart.Analytica_1.3.24_x64-setup.exe",
+  "checksum": "sha256:97686f486c997039166655ac0e799503bcda63e38816d52e218737aa6bddec37",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.25-analytics-hub/Aurora.AI.Smart.Analytica_1.3.25_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.8.5",
-  "release_notes": "1.3.24: обновлён слой защищённого соединения с облачным шлюзом; набор инструментов сборки закреплён в дереве",
-  "signature": "cV6vTmsmVEW7tcBwMFCmGlA4NagaXduTnYtip/E7EdXclLKbmqgV7tEx/oin/tABgjfF5ViQpvTB/NlUxEvBAw==",
-  "version": "1.3.24"
+  "release_notes": "1.3.25: интерфейс без счётчиков обращений, званий и достижений; обновлена библиотека распаковки архивов (закрыты две уязвимости)",
+  "signature": "+4Zrj/DrycKBrMuf1GxpbhI/bkQnWFLKB2IxrwF6khSZKCp3XgoszW0JGMsTNl/p72kN3rVNaV4zOgolYSDMDA==",
+  "version": "1.3.25"
 }
