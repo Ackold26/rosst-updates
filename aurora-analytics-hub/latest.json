@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:97686f486c997039166655ac0e799503bcda63e38816d52e218737aa6bddec37",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.25-analytics-hub/Aurora.AI.Smart.Analytica_1.3.25_x64-setup.exe",
+  "checksum": "sha256:aeb500a3417361055b635871b7521bc72585de68d7a40264a60b50171e7e0e7a",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v1.3.26-analytics-hub/Aurora.AI.Smart.Analytica_1.3.26_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.8.5",
-  "release_notes": "1.3.25: интерфейс без счётчиков обращений, званий и достижений; обновлена библиотека распаковки архивов (закрыты две уязвимости)",
-  "signature": "+4Zrj/DrycKBrMuf1GxpbhI/bkQnWFLKB2IxrwF6khSZKCp3XgoszW0JGMsTNl/p72kN3rVNaV4zOgolYSDMDA==",
-  "version": "1.3.25"
+  "release_notes": "1.3.26: новый кабинет «Аналитик данных» – отчёт по выгрузкам Excel и главные выводы под ваше решение с проверкой каждого числа; новая главная страница под три кабинета; Digital Budget учитывается один раз; мастер установки на русском, установщик больше не останавливается на несколько минут при запущенной программе",
+  "signature": "t98SE0OgDwnfCZG6dHRk30CHe1lvhtdw6dXGPQEw1TEXUegnIyEDyerC9a0xp/p1e5j4dlANv+NW1HnbjMojDw==",
+  "version": "1.3.26"
 }
