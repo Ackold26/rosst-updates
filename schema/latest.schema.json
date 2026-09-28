@@ -47,6 +47,10 @@
       "type": "string",
       "pattern": "^\\d+\\.\\d+\\.\\d+$",
       "description": "Минимальная версия клиента для получения offer'а. Semver без pre-release."
+    },
+    "signature": {
+      "type": "string",
+      "description": "Подпись Ed25519 манифеста в base64 (UPDATESIG-v1: version, download_url, checksum, min_version, mandatory). Опционально: есть у продуктов с проверкой подписи обновления (Smart Analytica, Creative Hub)."
     }
   }
 }
