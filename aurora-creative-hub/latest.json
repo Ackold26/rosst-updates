@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:62eb69d6a5a953e97eaf35aad09ca0fe5cbd4105a449edf950fa8b6df9f9978a",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.9-creative-center/Aurora.AI.Creative.Center_0.10.9_x64-setup.exe",
+  "checksum": "sha256:54bae7bfc854bc9a267f2f48b842c2c4907f3c247f5525d7e86f4da462ad9c86",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.10-creative-center/Aurora.AI.Creative.Center_0.10.10_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.10.9: анализ креативов извлекает кадры и речь без отдельной установки ffmpeg; записи одного ролика сводятся, похожие по названию бренды не смешиваются; разбор сохраняется, «Дополнить» не затирает прежний разбор; виден ход подготовки и ожидания модели; обновление не зависает на закрытии программы.",
-  "signature": "aOxgFNAYS3RzPBEPvknhTkb9E1ub6C/15MXoeOqy4JdlanA1eIR0eYtC4hYo3lmd1qISJGz7HzO9w4s++yTNAQ==",
-  "version": "0.10.9"
+  "release_notes": "v0.10.10: документы и презентации собирает программа (Word открывается без вопроса о полях), внутренние оценки – отдельным файлом; файлы из облака доставляются надёжно и на нестабильной сети, видна причина недоставки, «Забрать файлы заново» и «Вернуться к работе» после обрыва; обращения к локальным службам – без посредника из настроек системы.",
+  "signature": "g4fJMid1TLztRGj57wsXkvAiRtg1oQHMj0x1N5Ua2ZQv17eq50PKJWOMYASWExwlza0EiDlaPo35VocwYws1Dg==",
+  "version": "0.10.10"
 }
