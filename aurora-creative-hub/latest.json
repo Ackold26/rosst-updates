@@ -1,9 +1,9 @@
 {
-  "checksum": "sha256:54bae7bfc854bc9a267f2f48b842c2c4907f3c247f5525d7e86f4da462ad9c86",
-  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.10-creative-center/Aurora.AI.Creative.Center_0.10.10_x64-setup.exe",
+  "checksum": "sha256:0db54eefabe7a8b9e0b80a75713be3ee625962fea8b1768f697b58132e5da83a",
+  "download_url": "https://github.com/Ackold26/aurora-releases/releases/download/v0.10.11-creative-center/Aurora.AI.Creative.Center_0.10.11_x64-setup.exe",
   "mandatory": false,
   "min_version": "0.3.2",
-  "release_notes": "v0.10.10: документы и презентации собирает программа (Word открывается без вопроса о полях), внутренние оценки – отдельным файлом; файлы из облака доставляются надёжно и на нестабильной сети, видна причина недоставки, «Забрать файлы заново» и «Вернуться к работе» после обрыва; обращения к локальным службам – без посредника из настроек системы.",
-  "signature": "g4fJMid1TLztRGj57wsXkvAiRtg1oQHMj0x1N5Ua2ZQv17eq50PKJWOMYASWExwlza0EiDlaPo35VocwYws1Dg==",
-  "version": "0.10.10"
+  "release_notes": "v0.10.11: обновления кабинетов доезжают и на нестабильной сети – загрузка продолжается с места обрыва небольшими частями; на нормальной связи всё как прежде.",
+  "signature": "0g6NeiKCo+uXUgSde0U0w972xvKe8QnQE9AOuWlIfE3xq9+a+14dAFk+gXxZlqIxxgOcYYryhSi9dsRm80VGBQ==",
+  "version": "0.10.11"
 }
